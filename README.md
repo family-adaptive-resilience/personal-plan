@@ -3,7 +3,7 @@
 Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share what I personally did and found helpful when I caught covid in March. This is not advice or a suggested treatment plan, and you ought to seek medical advice as appropriate.
 
 ## Amazon Shopping List
-[Covid shopping list (WIP](https://www.amazon.co.uk/hz/wishlist/ls/3GJCMT04QC1ZR?ref_=wl_share)
+[Covid shopping list (WIP)](https://www.amazon.co.uk/hz/wishlist/ls/3GJCMT04QC1ZR?ref_=wl_share)
 
 
 ## Preparation
