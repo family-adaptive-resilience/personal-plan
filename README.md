@@ -1,9 +1,8 @@
-# personal-plan
-Laeeth's Personal Covid Plan
+# Laeeth's Personal Covid Plan
 
 Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share what I personally did and found helpful when I caught covid in March. This is not advice or a suggested treatment plan, and you ought to seek medical advice as appropriate.
 
-Preparation
+## Preparation
 
 - Make sure you have a pulse oximeter with spare batteries and that you know how to use it and read it. consider buying one for younger children if you have them (available for a low price on Amazon).
 - Consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
@@ -18,7 +17,7 @@ Preparation
 - Private doctors in the UK who prescribe treatments not approved by the National Institute for Clinical Excellence face persecution from regulatory agencies.
 It’s possible to receive tele-medicine from doctors abroad, including North America. Please contact @dominic if you would like to receive what information we have been able to find at this point.
 
-**General**
+## General
 
 1.**Consider that even if you are actually pretty sick, you may not feel that bad**
 Covid seems to have an analgesic - or pain-killing - effect. My oxygen saturation (SpO2) was pretty bad, but until towards the worst point I didn’t feel too bad. So don’t tell yourself I am fine and end up pushing yourself too hard.
@@ -47,7 +46,7 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 9.**Early treatment**
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
 
-**Supplements**
+## Supplements
 
 it’s possible to have a negative reaction to anything (for a while a few years ago I seemed to have an allergy to vitamin C!) but my personal belief is that the supplements are mostly pretty safe for short-term use. That’s just my personal belief, and should not be misinterpreted as medical advice.
 
@@ -70,8 +69,8 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Ubiquinol** and **Acetyl-L-Carnitine**
 
-**Medications**
-I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A Symmetry colleague and I, acting in our personal capacity, were able to persuade the government that this was an inappropriate way of thinking about decisions under uncertainty given that covid is a disease new to humanity and we succeeded in changing the official UK recommendations about vitamin D. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
+## Medications
+I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
 (WIP)
 
@@ -85,7 +84,7 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 
 1. **Doxycycline**. Antibiotic that is an immune modulator.
 
-** Blood Tests**
+## Blood Tests
 
 (WIP)
 
