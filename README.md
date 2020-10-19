@@ -76,7 +76,9 @@ Some people have raised questions about possible kidney damage from long-term us
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
-(WIP)
+**To Do**
+- add doses
+- add more colour, references to research, doses, sources
 
 1. **Ambroxol** or **Bromohexine**. Bromohexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.
 
@@ -90,8 +92,43 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 
 ## Blood Tests
 
-(WIP)
+### Key Ones
+(first draft, not yet finished and may not yet be quite correct). I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to arrange an appointment, see the doctor, get a prescription for blood tests, take it to TDL around the corner, get blood drawn. Simple process.
 
-1. lymphocyte count
-1. clotting
-1. CD4 / CD*
+1. CT scan lungs
+1. platelet count
+1. DDIT, D-Dimers (Fibrinogen Degradation Products)
+1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
+1. HCRP, C Reactive Protein (High Sensitivity)
+1. FIB, Fibrinogen
+1. IL6, Interleukin 6
+1. TNF, Tumour Necrosis Factor - Alpha
+
+### All the tests I had done
+
+(might be overkill)
+
+1. CT scan lungs
+1. platelet count
+1. DDIT, D-Dimers (Fibrinogen Degradation Products)
+1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
+1. IGE, IgE (Total)
+1. TRAC, Trace Metal (Blood) Profile
+1. VIT2, Vitamin Profile 2
+1. ISAC,ISAC Panel (allergies)
+1. RMIN, Mineral screen (whole blood)
+1. NKP2, Natural Killer Profile 2 (CD3,CD4,CD8,CD16/CD56,CD19)
+1. RH2, Rheumatology Profile 2 (Connective Tissue)
+1. 1TH2, TH1/TH2 Cytokine Profile
+1. 6RF, TH1/TH2 Cytokine Ratio
+1. 1A, Allergy Profile 1 (Food & Inhalants)
+1. AUTO, Autoantibody Profile I
+1. HCRP, C Reactive Protein (High Sensitivity)
+1. FIB, Fibrinogen
+1. PTIM, Prothrombin Time
+1. APTT, APTT/KCCCT
+1. IL6, Interleukin 6
+1. TNF, Tumour Necrosis Factor - Alpha
+1. HOMO, Homocysteine (Quantitative)
+1. ESR, ESR
+1. EFAR, Essential Fatty Acid Profile (Red Cell)
