@@ -23,7 +23,7 @@ It’s possible to receive tele-medicine from doctors abroad, including North Am
 
 ## General
 
-0. I do not intend to cover basics like masks and hand washing here, except to say that it's worth getting N99 or N95 masks instead of cloth masks if you can although even T shirt plus tights material beats no mask.  It's not just about your chance of catching it but also about viral load.  Every little thing you do matters.
+0.I do not intend to cover basics like masks and hand washing here, except to say that it's worth getting N99 or N95 masks instead of cloth masks if you can although even T shirt plus tights material beats no mask.  It's not just about your chance of catching it but also about viral load.  Every little thing you do matters.
 
 1.**Consider that even if you are actually pretty sick, you may not feel that bad**
 Covid seems to have an analgesic - or pain-killing - effect. My oxygen saturation (SpO2) was pretty bad, but until towards the worst point I didn’t feel too bad. So don’t tell yourself I am fine and end up pushing yourself too hard.
@@ -52,24 +52,34 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 9.**Early treatment**
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
 
+10.**[Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  __ice9 took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
+```
+personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  
+
+Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV.
+
+I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible.
+Also helps in cleaning up after discarding spoiled fruit etc.
+```
+
 ## Supplements
 
 it’s possible to have a negative reaction to anything (for a while a few years ago I seemed to have an allergy to vitamin C!) but my personal belief is that the supplements are mostly pretty safe for short-term use. That’s just my personal belief, and should not be misinterpreted as medical advice.
 
-1. **Vitamin D**. It’s unknown as to whether it’s too late to raise vitamin D levels if you wait till you get sick. Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; I take 10,000 IU daily; and my two year old daughter takes 600IU daily.
+1. **Vitamin D**. Take with fatty food in the morning.  It’s unknown as to whether it’s too late to raise vitamin D levels if you wait till you get sick. Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; I take 10,000 IU daily; and my two year old daughter takes 600IU daily.
 
-1. **Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore
-Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.
+1. **Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
+Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  
 
-1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
+1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
 1. **Undenatured whey**
 
 1. **Sodium/Magnesium Ascorbate crystals, vitamin C** - a flat teaspoon in water is c. X grammes. I was taking 2 grammes every few hours. Overdose of vitamin C is pretty harmless - symptom is diarrhea and the answer to that is just to reduce the dosage a bit. You will be able to tolerate more vitamin C if you are very sick. Some work found ascorbic acid better than the salt ascorbate, but that’s tough on the teeth if taken in water and hard to take enough as capsules. Magnesium ascorbate better than sodium ascorbate but it may be harder to get in some places.
 
-1. **Magnesium, anti-inflammatory**. I gave myself magnesium IV shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.
+1. **Magnesium, anti-inflammatory**. Take before bed on empty stomach.  I gave myself magnesium IV shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.
 
-1. **Zinc**. I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
+1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
 
 1. **Melatonin*. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
 
@@ -91,6 +101,10 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 1. **Niclosamide**. Anti-worm medication used even in children that may reduce inflammation. I found it not as powerful as Ivermectin, but some months ago there were days that I couldn’t get much work done without it. It’s OTC (no prescription required) in some developed countries like Belgium.
 
 1. **Doxycycline**. Antibiotic that is an immune modulator.
+
+1. **Famotidine / Pepsid AC**.  Anti-viral effects.  I did not take but would next time.  Be careful of drug interactions.
+
+1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.
 
 ## Blood Tests
 
