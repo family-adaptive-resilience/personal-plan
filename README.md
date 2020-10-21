@@ -23,6 +23,8 @@ It’s possible to receive tele-medicine from doctors abroad, including North Am
 
 ## General
 
+0. I do not intend to cover basics like masks and hand washing here, except to say that it's worth getting N99 or N95 masks instead of cloth masks if you can although even T shirt plus tights material beats no mask.  It's not just about your chance of catching it but also about viral load.  Every little thing you do matters.
+
 1.**Consider that even if you are actually pretty sick, you may not feel that bad**
 Covid seems to have an analgesic - or pain-killing - effect. My oxygen saturation (SpO2) was pretty bad, but until towards the worst point I didn’t feel too bad. So don’t tell yourself I am fine and end up pushing yourself too hard.
 
