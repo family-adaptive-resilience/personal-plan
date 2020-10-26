@@ -61,6 +61,7 @@ Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to hav
 I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible.
 Also helps in cleaning up after discarding spoiled fruit etc.
 ```
+11. Important: **prone** - I read that it may be better for breathing if you lie prone (on your front).
 
 ## Supplements
 
@@ -73,17 +74,19 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
-1. **Undenatured whey**
+1. **Undenatured whey** protein, or failing that just regular whey protein
 
 1. **Sodium/Magnesium Ascorbate crystals, vitamin C** - a flat teaspoon in water is c. X grammes. I was taking 2 grammes every few hours. Overdose of vitamin C is pretty harmless - symptom is diarrhea and the answer to that is just to reduce the dosage a bit. You will be able to tolerate more vitamin C if you are very sick. Some work found ascorbic acid better than the salt ascorbate, but that’s tough on the teeth if taken in water and hard to take enough as capsules. Magnesium ascorbate better than sodium ascorbate but it may be harder to get in some places.
 
-1. **Magnesium, anti-inflammatory**. Take before bed on empty stomach.  I gave myself magnesium IV shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.
+1. **Magnesium, anti-inflammatory**. Take before bed on empty stomach.  I gave myself magnesium IV shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.  Maybe a high dose like 2 grammes throughout the day.
 
 1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
 
 1. **Melatonin*. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
 
-1. **Ubiquinol** and **Acetyl-L-Carnitine**
+1. **Ubiquinol** and **Acetyl-L-Carnitine** for mitochondrial support.  300mg Ubiquinol and 500mg *2 for Acetyl-l-carnitine
+
+1. **Carbon 60** in olive oil.  This is a relatively new supplement so we do not know all the risks, but it seems to be a powerful anti-inflammatory.
 
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
