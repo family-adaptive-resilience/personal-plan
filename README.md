@@ -72,7 +72,7 @@ it’s possible to have a negative reaction to anything (for a while a few years
 1. **Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
 Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  
 
-1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and thi shas been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
+1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and this has been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
 1. **Undenatured whey** protein, or failing that just regular whey protein
 
