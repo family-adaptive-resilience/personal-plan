@@ -67,12 +67,12 @@ Also helps in cleaning up after discarding spoiled fruit etc.
 
 it’s possible to have a negative reaction to anything (for a while a few years ago I seemed to have an allergy to vitamin C!) but my personal belief is that the supplements are mostly pretty safe for short-term use. That’s just my personal belief, and should not be misinterpreted as medical advice.
 
-1. **Vitamin D**. Take with fatty food in the morning.  It’s unknown as to whether it’s too late to raise vitamin D levels if you wait till you get sick. Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; I take 10,000 IU daily; and my two year old daughter takes 600IU daily.
+1. **Vitamin D**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; I take 10,000 IU daily; and my two year old daughter takes 600IU daily.
 
 1. **Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
 Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  
 
-1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
+1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and thi shas been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
 1. **Undenatured whey** protein, or failing that just regular whey protein
 
@@ -108,6 +108,8 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 1. **Famotidine / Pepsid AC**.  Anti-viral effects.  I did not take but would next time.  Be careful of drug interactions.
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.
+
+1. **Colchicine**. Can be used to treat gout and as an anti-inflammatory to treat Bechet's disease. Well tolerated at lower doses. Higher doses can trigger gastrointestinal symptoms. Contra-indicated for certain kidney conditions, and there have been deaths with overdoses. Three recent randomised control trials found beenfits including faster recovery time and a reduction in mortaility and ICU admission. 
 
 ## Blood Tests
 
