@@ -61,7 +61,7 @@ Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to hav
 I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible.
 Also helps in cleaning up after discarding spoiled fruit etc.
 ```
-11. Important: **prone** - I read that it may be better for breathing if you lie prone (on your front).
+11. Important: **prone** - lying on your front (prone) increases the amount of oxygen you can get into your lungs. [Doctors realised this](https://edition.cnn.com/2020/04/14/health/coronavirus-prone-positioning/index.html) earlier in the year when they observed the benefit to patients. This is worth considering if one encounters breathing problems.
 
 ## Supplements
 
