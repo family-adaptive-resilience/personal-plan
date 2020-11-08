@@ -82,7 +82,7 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
 
-1. **Melatonin*. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
+1. **Melatonin**. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
 
 1. **Ubiquinol** and **Acetyl-L-Carnitine** for mitochondrial support.  300mg Ubiquinol and 500mg *2 for Acetyl-l-carnitine
 
