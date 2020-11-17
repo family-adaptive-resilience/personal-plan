@@ -95,7 +95,7 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 - add doses
 - add more colour, references to research, doses, sources
 
-1. **Ambroxol** or **Bromohexine**. Bromohexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.
+1. **Ambroxol** or **Bromhexine**. Bromhexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.
 
 1. **Ivermectin**. An anti-worm medication that has remarkable anti-inflammatory effects; it might have an anti-viral effect too, although that is uncertain. I have found this helpful for treating the effects of long-covid, although I think mostly likely it would be effective early on.
 
