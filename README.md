@@ -107,6 +107,8 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 
 1. **Doxycycline**. Antibiotic that is an immune modulator.
 
+1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
+
 1. **Famotidine / Pepsid AC**.  Anti-viral effects.  I did not take but would next time.  Be careful of drug interactions.
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.
