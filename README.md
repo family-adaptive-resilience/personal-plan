@@ -115,6 +115,11 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 
 1. **Colchicine**. Can be used to treat gout and as an anti-inflammatory to treat Bechet's disease. Well tolerated at lower doses. Higher doses can trigger gastrointestinal symptoms. Contra-indicated for certain kidney conditions, and there have been deaths with overdoses. Three recent randomised control trials found beenfits including faster recovery time and a reduction in mortaility and ICU admission. 
 
+## List of doctors
+
+- [doctors prescribing Ivermectin](https://www.exstnc.com/)
+
+
 ## Blood Tests
 
 ### Key Ones
