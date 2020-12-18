@@ -8,22 +8,37 @@ Symmetry cannot provide medical advice, but in the circumstances I thought that 
 
 ## Preparation
 
+### Shopping
+- Ideally N99/N100 masks.  But N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.  It's not just about your chance of catching it but also about viral load.  **Every little thing you do matters.**
 - Make sure you have a pulse oximeter with spare batteries and that you know how to use it and read it. consider buying one for younger children if you have them (available for a low price on Amazon).
 - Consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
-- Consider purchasing an oxygen concentrator (GBP300 to 400), especially if you live in a remote region, or one where one cannot depend on having adequate healthcare. (In my opinion this applied to the UK, certainly in March/April becase they were not treating people unless they had very severe symptoms). Make sure you buy some tubing for it (it usually comes with one or two). I would not suggest taking oxygen without medical advice - it could make things worse if you are not careful; but for people who are independent-minded, they may wish to have choices
+- Consider purchasing an oxygen concentrator (GBP250 to 400), especially if you live in a remote region, or one where one cannot depend on having adequate healthcare. (In my opinion this applied to the UK, certainly in March/April becase they were not treating people unless they had very severe symptoms). Make sure you buy some tubing for it (it usually comes with one or two). I would not suggest taking oxygen without medical advice - it could make things worse if you are not careful; but for people who are independent-minded, they may wish to have choices
 - Consider purchasing UV wands and UV sterilizing boxes (make sure they have safety features) - they are available from Amazon at a modest price. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
 - Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms.
 - Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
-- Have a mini-plan about what you will do if you get sick or your partner or flatmate does. If you have children, who will look after them.
-- Think about how you could isolate if somebody in your household catches covid. It’s very infectious, but I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. My wife and daughter didn’t seem to catch it this time.
-- It is an unpleasant subject, and may sound macabre, but if you haven’t written a will yet then now would be a very good time. Ideally it would be best to use a family solicitor, but in a pinch you can buy DIY packs online. Most people at Symmetry probably don’t expect to ever need to have written a will for years to come, and let’s hope that is right. But if you are looking into the abyss, as I was for a few days just a few months ago, then you will be very glad to have made some preparations when your mind is clear.
-- The NHS constrains treatment choices based on evidence from randomised controlled trials. Some people question the wisdom of this framework given that it will be years before we have very good evidence in how to treat a disease new to humanity. The Chief Medical Advisor in the UK refused to advise vitamin D on the grounds of now RCT, but he also refused to fund RCTs - in my opinion this is quite a strange dynamic. So it is not my personal belief that you will get the best possible care from an NHS doctor in the UK.
-- Private doctors in the UK who prescribe treatments not approved by the National Institute for Clinical Excellence face persecution from regulatory agencies.
+
+### Planning - what happens if household member catches covid?
+Have a mini-plan about what you will do if you get sick or your partner or flatmate does.  It’s very infectious, but in the previous waves I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. (The attack rate is higher with the more contagious Type G strain, but it's still possible to avoid catching covid).  My wife and daughter didn’t seem to catch it this time.  Every little thing you do matters because even if you catch it then the outcome will be better if you have a lower viral dose than a higher viral dose.
+
+- If you have children, who will look after them?
+- Where and how will the infected person isolate?
+  - consider air flow (and getting air filter for their room and outside it)
+  - bedroom
+  - loo
+  - getting food/water/supplements/computer/other basics to them)?
+  
+### Planning - writing a will
+It is an unpleasant subject, and may sound macabre, but if you haven’t written a will yet then now would be a very good time. Ideally it would be best to use a family solicitor, but in a pinch you can buy DIY packs online. Most people at Symmetry probably don’t expect to ever need to have written a will for years to come, and let’s hope that is right. But if you are looking into the abyss, as I was for a few days just a few months ago, then you will be very glad to have made some preparations when your mind is clear.
+
+### Planning - arranging for adaptive medical care beforehand
+The NHS constrains treatment choices based on evidence from randomised controlled trials. Some people question the wisdom of this framework given that it will be years before we have very good evidence in how to treat a disease new to humanity. The Chief Medical Advisor in the UK refused to advise vitamin D on the grounds of now RCT, but he also refused to fund RCTs - in my opinion this is quite a strange dynamic. So it is not my personal belief that you will get the best possible care from an NHS doctor in the UK.
+
+Private doctors in the UK who prescribe treatments not approved by the National Institute for Clinical Excellence face persecution from regulatory agencies.
 It’s possible to receive tele-medicine from doctors abroad, including North America. Please contact @dominic if you would like to receive what information we have been able to find at this point.
 
-## General
+## General - what I think one should consider if one gets covid
 
-0.I do not intend to cover basics like masks and hand washing here, except to say that it's worth getting N99 or N95 masks instead of cloth masks if you can although even T shirt plus tights material beats no mask.  It's not just about your chance of catching it but also about viral load.  Every little thing you do matters.
+0.I do not intend to cover basics like masks and hand washing here.
 
 1.**Consider that even if you are actually pretty sick, you may not feel that bad**
 Covid seems to have an analgesic - or pain-killing - effect. My oxygen saturation (SpO2) was pretty bad, but until towards the worst point I didn’t feel too bad. So don’t tell yourself I am fine and end up pushing yourself too hard.
