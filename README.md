@@ -67,22 +67,24 @@ Also helps in cleaning up after discarding spoiled fruit etc.
 
 it’s possible to have a negative reaction to anything (for a while a few years ago I seemed to have an allergy to vitamin C!) but my personal belief is that the supplements are mostly pretty safe for short-term use. That’s just my personal belief, and should not be misinterpreted as medical advice.
 
-1. **Vitamin D**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; I take 10,000 IU daily; and my two year old daughter takes 600IU daily.
+Most of these may be obtained from Amazon.
 
-1. **Isoquercetin or Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
-Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.
+1. **Vitamin D**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; over autumn and winter I increased my dose from 10,000 IU daily to 20,000 IU daily; and my two year old daughter takes 600IU daily.  Oral D3 spray is more convenient and likely better absorbed than tablets or capsules.
 
-1. **Bromelain** - enzyme to increase bioavailability of Quercetin.
+1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
 
 1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and this has been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
-1. **Undenatured whey** protein, or failing that just regular whey protein
+1. **Isoquercetin or Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
+Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.
 
 1. **Sodium/Magnesium Ascorbate crystals, vitamin C** - a flat teaspoon in water is c. X grammes. I was taking 2 grammes every few hours. Overdose of vitamin C is pretty harmless - symptom is diarrhea and the answer to that is just to reduce the dosage a bit. You will be able to tolerate more vitamin C if you are very sick. Some work found ascorbic acid better than the salt ascorbate, but that’s tough on the teeth if taken in water and hard to take enough as capsules. Magnesium ascorbate better than sodium ascorbate but it may be harder to get in some places.
 
 1. **Magnesium, anti-inflammatory**. Take before bed on empty stomach.  I gave myself magnesium intramuscular shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.  Maybe a high dose like 2 grammes throughout the day.  Magnesium is necessary for vitamin D to be most effective. It both is depleted by [stress] (https://www.ncbi.nlm.nih.gov/books/NBK507250/) and buffers the effects of stress. 
 
-1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
+1. **Bromelain** - enzyme to increase bioavailability of Quercetin.
+
+1. **Undenatured whey** protein, or failing that just regular whey protein
 
 1. **Melatonin**. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
 
@@ -113,7 +115,7 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.  Recommended by [Dr Hertoghe](https://www.hertoghe.eu/en/)
 
-1. **Colchicine**. Can be used to treat gout and as an anti-inflammatory to treat Bechet's disease. Well tolerated at lower doses. Higher doses can trigger gastrointestinal symptoms. Contra-indicated for certain kidney conditions, and there have been deaths with overdoses. Three recent randomised control trials found beenfits including faster recovery time and a reduction in mortaility and ICU admission. 
+1. **Colchicine**. Can be used to treat gout and as an anti-inflammatory to treat Bechet's disease. Well tolerated at lower doses. Higher doses can trigger gastrointestinal symptoms. Contra-indicated for certain kidney conditions, and there have been deaths with overdoses. Three recent randomised control trials found benefits including faster recovery time and a reduction in mortaility and ICU admission. 
 
 ## List of doctors
 
