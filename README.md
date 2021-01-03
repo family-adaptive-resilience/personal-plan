@@ -197,28 +197,30 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 <details>
   <summary>All the tests I had done - might be overkill</summary>
-1. CT scan lungs
-1. platelet count
-1. DDIT, D-Dimers (Fibrinogen Degradation Products)
-1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
-1. IGE, IgE (Total)
-1. TRAC, Trace Metal (Blood) Profile
-1. VIT2, Vitamin Profile 2
-1. ISAC,ISAC Panel (allergies)
-1. RMIN, Mineral screen (whole blood)
-1. NKP2, Natural Killer Profile 2 (CD3,CD4,CD8,CD16/CD56,CD19)
-1. RH2, Rheumatology Profile 2 (Connective Tissue)
-1. 1TH2, TH1/TH2 Cytokine Profile
-1. 6RF, TH1/TH2 Cytokine Ratio
-1. 1A, Allergy Profile 1 (Food & Inhalants)
-1. AUTO, Autoantibody Profile I
-1. HCRP, C Reactive Protein (High Sensitivity)
-1. FIB, Fibrinogen
-1. PTIM, Prothrombin Time
-1. APTT, APTT/KCCCT
-1. IL6, Interleukin 6
-1. TNF, Tumour Necrosis Factor - Alpha
-1. HOMO, Homocysteine (Quantitative)
-1. ESR, ESR
-1. EFAR, Essential Fatty Acid Profile (Red Cell)
+
+  #### Full test panels from TDL
+  1. CT scan lungs
+  1. platelet count
+  1. DDIT, D-Dimers (Fibrinogen Degradation Products)
+  1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
+  1. IGE, IgE (Total)
+  1. TRAC, Trace Metal (Blood) Profile
+  1. VIT2, Vitamin Profile 2
+  1. ISAC,ISAC Panel (allergies)
+  1. RMIN, Mineral screen (whole blood)
+  1. NKP2, Natural Killer Profile 2 (CD3,CD4,CD8,CD16/CD56,CD19)
+  1. RH2, Rheumatology Profile 2 (Connective Tissue)
+  1. 1TH2, TH1/TH2 Cytokine Profile
+  1. 6RF, TH1/TH2 Cytokine Ratio
+  1. 1A, Allergy Profile 1 (Food & Inhalants)
+  1. AUTO, Autoantibody Profile I
+  1. HCRP, C Reactive Protein (High Sensitivity)
+  1. FIB, Fibrinogen
+  1. PTIM, Prothrombin Time
+  1. APTT, APTT/KCCCT
+  1. IL6, Interleukin 6
+  1. TNF, Tumour Necrosis Factor - Alpha
+  1. HOMO, Homocysteine (Quantitative)
+  1. ESR, ESR
+  1. EFAR, Essential Fatty Acid Profile (Red Cell)
 </details>
