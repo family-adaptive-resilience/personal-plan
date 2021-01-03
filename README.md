@@ -110,20 +110,45 @@ Some people have raised questions about possible kidney damage from long-term us
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
+### Ordering and shipping
+- Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118).
+- Nitazoxanide - Vanuata pharmacy
+- Hydroxychloroquine - telemedicine
+- Ivermectin - telemedicine; risks of vet sources uncertain
+- Doxycycline - Vanuata, telemedicine
+- Aspirin - OTC
+- Famotidine - Amazon US, eBay US
+- Thymosin Alpha One - telemedicine
+- Colchicine - Vanuata, telemedicine
+
 **To Do**
 - add doses
 - add more colour, references to research, doses, sources
 
-1. **Ivermectin**. An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.
+### Dual-entry inhibition
+@__ice9 on Twitter [says](https://twitter.com/__ice9/status/1343999679672033280?s=20):
+> Theoretical justification arises from the fact that endosomal entry is of only secondary importance for SARS-CoV-2 replication in the respiratory tract. Both TMPRSS (proteases at the cell membrane) and cathepsins (proteases in endosomes) must be blocked.
 
-1. **Ambroxol** or **Bromhexine**. Bromhexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.  Can be ordered on eBay or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118).  eBay may not ship to Jersey, but you can try your luck with Skypax UK (they say they do not forward medicines though).
+So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafamostat) and one of endosomal entry inhibitors (Nitazoxanide, Niclosamide, HCQ).
 
-1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
+#### TMPRSS entry inhibition
+1. **Ambroxol** or **Bromhexine**. Bromhexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. @__ice9 [says](https://twitter.com/__ice9/status/1289164553603788805?s=20) "Ambroxol triggers the release in the lungs of endogenous compounds known to be inhibitory to serine proteases.  As a cell-membrane-localized serine protease, TMPRSS2 would be fully exposed to them.  It likely gets inhibited likewise."  Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.   Bromhexine dosage 8mg 3x daily.
+
+1. **camostat** or **nafamostat**
+
+#### Endosomal entry inhibition
+1. **Nitazoxanide**.  Prescription medication.
+
+1. **Niclosamide**. Anti-worm medication used even in children that may reduce inflammation. I found it not as powerful as Ivermectin, but some months ago there were days that I couldn’t get much work done without it. It’s OTC (no prescription required) in some developed countries like Belgium under the brand name of Yomesan.
 
 1. **Hydroxychloroquine** (chloroquine may work but is more toxic). It’s a heavily politicised drug. The first mention I could find in it was on an internal email forwarded from a consultant in China (although I had seen people talking about it on Reddit and Twitter). That was in January. So Trump got the idea from the same sources we did, and we didn’t learn about it through him. HCQ is no wonder drug, but there just aren’t many established treatments. I took 200mg HCQ in the evening and the next morning I felt much better, with my oxygen rising to the high 80s later that day from being 58 before; and I continued to improve in the subsequent days and weeks. I don’t think that was a coincidence. HCQ is probably best taken early on; it’s not going to be very helpful if someone waits till they are very sick. Many of the debunking studies have mistakes verging on what looks almost like fraud - it’s hard to know why that is, but it’s interesting that HCQ is very cheap.
 
-1. **Niclosamide**. Anti-worm medication used even in children that may reduce inflammation. I found it not as powerful as Ivermectin, but some months ago there were days that I couldn’t get much work done without it. It’s OTC (no prescription required) in some developed countries like Belgium.
+## Immune modulation / anti-viral
+1. **Ivermectin**. An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.
 
+1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
+
+### Anti-coagulation
 1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
 
 1. **Famotidine / Pepsid AC**.  Anti-viral effects.  I did not take but would next time.  Be careful of drug interactions.
