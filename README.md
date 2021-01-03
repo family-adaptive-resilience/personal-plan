@@ -18,7 +18,7 @@ We are leaving the world of yesterday where life seemed to lack meaning to many.
 
 
 #### List
-1. **Supplements / Medicines / First Aid Kit **
+1. **Supplements/Medicines/First Aid Kit**
 Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
 
 1. **N99/N100 masks**
