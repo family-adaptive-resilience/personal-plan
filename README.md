@@ -7,15 +7,31 @@ Symmetry cannot provide medical advice, but in the circumstances I thought that 
 
 
 ## Preparation
+We are leaving the world of yesterday where life seemed to lack meaning to many.  When preparing for covid consider that **every little thing you do matters.**  It's not just about reducing you chance of catching it, but also about viral load.  It's not just about taking action to minimise your risk of death, but also to reduce your chance of extended life-altering disability due to long covid.
 
 ### Shopping
-- Ideally N99/N100 masks.  But N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.  It's not just about your chance of catching it but also about viral load.  **Every little thing you do matters.**
-- Make sure you have a pulse oximeter with spare batteries and that you know how to use it and read it. consider buying one for younger children if you have them (available for a low price on Amazon).
-- Consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
-- Consider purchasing an oxygen concentrator (GBP250 to 400), especially if you live in a remote region, or one where one cannot depend on having adequate healthcare. (In my opinion this applied to the UK, certainly in March/April becase they were not treating people unless they had very severe symptoms). Make sure you buy some tubing for it (it usually comes with one or two). I would not suggest taking oxygen without medical advice - it could make things worse if you are not careful; but for people who are independent-minded, they may wish to have choices
-- Consider purchasing UV wands and UV sterilizing boxes (make sure they have safety features) - they are available from Amazon at a modest price. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
-- Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms.
-- Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
+#### Sources
+- eBay UK, US, Thailand (you can change the store from the site/app)
+- Amazon UK, US, Germany
+- etsy
+- Vanuata Pharmacy
+
+
+#### List
+1. Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms.
+1. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
+1. N99/N100 masks
+N99/N100 masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
+1. HEPA respirator (optional)
+I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  It has not yet arrived so cannot comment yet.
+1. Pulse oximeter with spare batteries and that you know how to use it and read it. consider buying one for younger children if you have them (available for a low price on Amazon).  Consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
+1. Oxygen concentrator (GBP250 to 400) with a few spare nasal canulas
+UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice,
+1. UV wands
+Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
+1. UV sterilizing boxes
+Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
+
 
 ### Planning - what happens if household member catches covid?
 Have a mini-plan about what you will do if you get sick or your partner or flatmate does.  It’s very infectious, but in the previous waves I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. (The attack rate is higher with the more contagious Type G strain, but it's still possible to avoid catching covid).  My wife and daughter didn’t seem to catch it this time.  Every little thing you do matters because even if you catch it then the outcome will be better if you have a lower viral dose than a higher viral dose.
@@ -68,14 +84,8 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
 
 10.**[Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  __ice9 took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
-```
-personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  
+> personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV. I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible. Also helps in cleaning up after discarding spoiled fruit etc.
 
-Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV.
-
-I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible.
-Also helps in cleaning up after discarding spoiled fruit etc.
-```
 11. Important: **prone** - lying on your front (prone) increases the amount of oxygen you can get into your lungs. [Doctors realised this](https://edition.cnn.com/2020/04/14/health/coronavirus-prone-positioning/index.html) earlier in the year when they observed the benefit to patients. This is worth considering if one encounters breathing problems.
 
 ## Supplements
@@ -84,7 +94,7 @@ it’s possible to have a negative reaction to anything (for a while a few years
 
 Most of these may be obtained from Amazon.
 
-1. **Vitamin D**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; over autumn and winter I increased my dose from 10,000 IU daily to 20,000 IU daily; and my two year old daughter takes 600IU daily.  Oral D3 spray is more convenient and likely better absorbed than tablets or capsules.
+1. **Vitamin D with K2**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; over autumn and winter I increased my dose from 10,000 IU daily to 20,000 IU daily; and my two year old daughter takes 1200IU daily.  Oral D3 spray is more convenient and likely better absorbed than tablets or capsules.
 
 1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
 
@@ -93,11 +103,13 @@ Most of these may be obtained from Amazon.
 1. **Isoquercetin or Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
 Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.
 
-1. **Sodium/Magnesium Ascorbate crystals, vitamin C** - a flat teaspoon in water is c. X grammes. I was taking 2 grammes every few hours. Overdose of vitamin C is pretty harmless - symptom is diarrhea and the answer to that is just to reduce the dosage a bit. You will be able to tolerate more vitamin C if you are very sick. Some work found ascorbic acid better than the salt ascorbate, but that’s tough on the teeth if taken in water and hard to take enough as capsules. Magnesium ascorbate better than sodium ascorbate but it may be harder to get in some places.
-
-1. **Magnesium, anti-inflammatory**. Take before bed on empty stomach.  I gave myself magnesium intramuscular shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.  Maybe a high dose like 2 grammes throughout the day.  Magnesium is necessary for vitamin D to be most effective. It both is depleted by [stress] (https://www.ncbi.nlm.nih.gov/books/NBK507250/) and buffers the effects of stress. 
-
 1. **Bromelain** - enzyme to increase bioavailability of Quercetin.
+
+1. **Sodium/Magnesium Ascorbate crystals, vitamin C** - I was taking 2 grammes every few hours. Overdose of vitamin C is pretty harmless - symptom is diarrhea and the answer to that is just to reduce the dosage a bit. You will be able to tolerate more vitamin C if you are very sick. Some work found ascorbic acid better than the salt ascorbate, but that’s tough on the teeth if taken in water and hard to take enough as capsules. Magnesium ascorbate better than sodium ascorbate but it may be harder to get in some places.
+
+1. **Liposomal vitamin C** - fat-soluble vitamin C
+
+**Magnesium Biglycinate** anti-inflammatory. Take before bed on empty stomach.  I gave myself magnesium intramuscular shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.  Maybe a high dose like 2 grammes throughout the day.  Magnesium is necessary for vitamin D to be most effective. It both is depleted by [stress] (https://www.ncbi.nlm.nih.gov/books/NBK507250/) and buffers the effects of stress. 
 
 1. **Undenatured whey** protein, or failing that just regular whey protein
 
