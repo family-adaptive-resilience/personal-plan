@@ -195,10 +195,8 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. IL6, Interleukin 6
 1. TNF, Tumour Necrosis Factor - Alpha
 
-### All the tests I had done
-
-(might be overkill)
-
+<details>
+  <summary>All the tests I had done - might be overkill</summary>
 1. CT scan lungs
 1. platelet count
 1. DDIT, D-Dimers (Fibrinogen Degradation Products)
@@ -223,3 +221,4 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. HOMO, Homocysteine (Quantitative)
 1. ESR, ESR
 1. EFAR, Essential Fatty Acid Profile (Red Cell)
+</details>
