@@ -18,18 +18,25 @@ We are leaving the world of yesterday where life seemed to lack meaning to many.
 
 
 #### List
-1. Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms.
-1. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
-1. N99/N100 masks
+1. **Supplements / Medicines / First Aid Kit **
+Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
+
+1. **N99/N100 masks**
 N99/N100 masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
-1. HEPA respirator (optional)
+
+1. **HEPA respirator** (optional)
 I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  It has not yet arrived so cannot comment yet.
-1. Pulse oximeter with spare batteries and that you know how to use it and read it. consider buying one for younger children if you have them (available for a low price on Amazon).  Consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
-1. Oxygen concentrator (GBP250 to 400) with a few spare nasal canulas
-UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice,
-1. UV wands
+
+1. **Pulse oximeter** with spare batteries
+Ensure that you know how to use it and read it. Consider buying one for younger children if you have them (available for a low price on Amazon); consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
+
+1. **Oxygen concentrator with a few spare nasal cannulas**
+Cost from Amazon is GBP250 to 400.  UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice.
+
+1. **UV wands**
 Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
-1. UV sterilizing boxes
+
+1. **UV sterilizing boxes**
 Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
 
 
