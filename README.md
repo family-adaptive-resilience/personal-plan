@@ -39,6 +39,8 @@ Amazon - make sure they have safety features. If you get sick then it’s better
 1. **UV sterilizing boxes**
 Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
 
+1. **Air Humidifiers**
+Humidifiers are available on Amazon.  They may [ease covid symptoms](https://www.usatoday.com/story/tech/reviewedcom/2020/03/10/best-humidifiers-ease-coronavirus-symptoms/5012687002/) as well as [reducing the spread of covid indoors](https://www.businessinsider.com/humidifiers-could-reduce-coronavirus-transmission-risk-indoors-2020-12)
 
 ### Planning - what happens if household member catches covid?
 Have a mini-plan about what you will do if you get sick or your partner or flatmate does.  It’s very infectious, but in the previous waves I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. (The attack rate is higher with the more contagious Type G strain, but it's still possible to avoid catching covid).  My wife and daughter didn’t seem to catch it this time.  Every little thing you do matters because even if you catch it then the outcome will be better if you have a lower viral dose than a higher viral dose.
