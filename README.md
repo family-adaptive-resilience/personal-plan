@@ -16,6 +16,7 @@ We are leaving the world of yesterday where life seemed to lack meaning to many.
 - etsy
 - Vanuata Pharmacy
 
+Amazon US may not ship to certain countries.  You can use a reshipping service like Skypax US.
 
 #### List
 1. **Supplements/Medicines/First Aid Kit**
@@ -82,6 +83,8 @@ Pulse oximeter can measure both. If you don’t have one or do not know how to u
 
 There’s a new phenomenon of ‘happy hypoxics’ - people with oxygen levels at a level that would normally mean they are unable even to walk or think. I didn’t have difficulty programming with SpO2 at 58. It would be a mistake to think you are fine just because you don’t feel that bad. Measure your SpO2 (oxygen saturation).
 
+Lower-quality devices may give incorrect readings for people with darker skin.
+
 6.**Measure SpO2 (oxygen saturation) of other members of your household**
 Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude substitute. I believe that even asymptomatic Covid patients can still see changes to lung function. It’s highly advisable to use a different device lest you infect everyone from using a shared pulse oximeter.
 
@@ -110,7 +113,7 @@ Most of these may be obtained from Amazon.
 1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and this has been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
 1. **Isoquercetin or Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
-Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.
+Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.  (Can be ordered from Amazon US).
 
 1. **Bromelain** - enzyme to increase bioavailability of Quercetin.
 
@@ -122,25 +125,32 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Undenatured whey** protein, or failing that just regular whey protein
 
-1. **Melatonin**. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.
+1. **Melatonin**. I used to take 2 to 3 mg two hours before bedtime occasionally before when I needed to reset my body clock. Post-covid that did not seem to have much of an effect and I needed to go up to 20mg. It’s available over the counter in many developed countries, but requires a prescription in the UK (and might not be sold at all). However it is still possible legally to obtain it via Google shopping, for example.  Melatonin gummies may be better absorbed (personal experience) than tablets or capsues.
 
 1. **Ubiquinol** and **Acetyl-L-Carnitine** for mitochondrial support.  300mg Ubiquinol and 500mg *2 for Acetyl-l-carnitine
 
 1. **Carbon 60** in olive oil.  This is a relatively new supplement so we do not know all the risks, but it seems to be a powerful anti-inflammatory.
+
+1. **Vitamin E**
+
+1. **Vitamin B2**
+
+1. **Symprov** probiotics (Amazon).
 
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
 ### Ordering and shipping
 - Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118).
-- Nitazoxanide - Vanuata pharmacy
-- Hydroxychloroquine - telemedicine
-- Ivermectin - telemedicine; risks of vet sources uncertain
-- Doxycycline - Vanuata, telemedicine
+- Nitazoxanide - Vanuata pharmacy, India Mart
+- Hydroxychloroquine - telemedicine, India Mart
+- Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
+- Doxycycline - Vanuata, telemedicine, India Mart
 - Aspirin - OTC
-- Famotidine - Amazon US, eBay US
-- Thymosin Alpha One - telemedicine
-- Colchicine - Vanuata, telemedicine
+- Famotidine - Amazon US, eBay US, India Mart
+- Thymosin Alpha One - telemedicine, India Mart
+- Colchicine - Vanuata, telemedicine, India Mart
+- Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
 
 **To Do**
 - add doses
@@ -158,21 +168,21 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. **camostat** or **nafamostat**
 
 #### Endosomal entry inhibition
-1. **Nitazoxanide**.  Prescription medication.
+1. **Nitazoxanide**.  Prescription medication.  Probably more effective than Niclosamide, but harder to obtain
 
-1. **Niclosamide**. Anti-worm medication used even in children that may reduce inflammation. I found it not as powerful as Ivermectin, but some months ago there were days that I couldn’t get much work done without it. It’s OTC (no prescription required) in some developed countries like Belgium under the brand name of Yomesan.
+1. **Niclosamide**. Anti-worm medication used even in children that may reduce inflammation. I found it not as powerful as Ivermectin, but some months ago there were days that I couldn’t get much work done without it. It’s OTC (no prescription required) in some developed countries like Belgium under the brand name of Yomesan.  There will be some benefit to chewing it, but there will be better absorption if you grind it up in a steel mortar and pestle first (buy a small one from Amazon UK).
 
 1. **Hydroxychloroquine** (chloroquine may work but is more toxic). It’s a heavily politicised drug. The first mention I could find in it was on an internal email forwarded from a consultant in China (although I had seen people talking about it on Reddit and Twitter). That was in January. So Trump got the idea from the same sources we did, and we didn’t learn about it through him. HCQ is no wonder drug, but there just aren’t many established treatments. I took 200mg HCQ in the evening and the next morning I felt much better, with my oxygen rising to the high 80s later that day from being 58 before; and I continued to improve in the subsequent days and weeks. I don’t think that was a coincidence. HCQ is probably best taken early on; it’s not going to be very helpful if someone waits till they are very sick. Many of the debunking studies have mistakes verging on what looks almost like fraud - it’s hard to know why that is, but it’s interesting that HCQ is very cheap.
 
 ## Immune modulation / anti-viral
-1. **Ivermectin**. An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.
+1. **Ivermectin**. An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.  Some people have purchased Duramect horse paste or Animect injectable for cattle **taken orally** - I can obviously not recommend this, and there are risks but I report this merely as information.
 
 1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
 
 ### Anti-coagulation
 1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
 
-1. **Famotidine / Pepsid AC**.  Anti-viral effects.  I did not take but would next time.  Be careful of drug interactions.
+1. **Famotidine / Pepsid AC**.  Anti-viral effects.  Be careful of drug interactions.  This suppresses stomach acid, and it's advisable to consider taking with Betadine HCL (Amazon) and probiotics.
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.  Recommended by [Dr Hertoghe](https://www.hertoghe.eu/en/)
 
