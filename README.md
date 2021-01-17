@@ -26,7 +26,7 @@ Stock up on covid supplements and existing medication before you need either. Yo
 N99/N100 masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
 
 1. **HEPA respirator** (optional)
-I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  It has not yet arrived so cannot comment yet.
+I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
 
 1. **Pulse oximeter** with spare batteries
 Ensure that you know how to use it and read it. Consider buying one for younger children if you have them (available for a low price on Amazon); consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
@@ -113,7 +113,7 @@ Most of these may be obtained from Amazon.
 1. **N-Acetyl-Cysteine**, glutathione precursor, may reduce cytokine storm and have antiviral activity. It is also mucolytic, meaniong it thins mucus, and this has been found to help in respiratory diseases.  Take on empty stomach.  When I was sick I took 2 x 600mg capsules a few times a day and I still take 2x 600mg twice a day. Pre-covid I only took 600mg.
 
 1. **Isoquercetin or Quercetin** - bioflavinoid, anti-viral, anti-inflammatory, MAST cell stabilizer, zinc ionophore.  Take with fatty food.
-Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.  (Can be ordered from Amazon US).
+Some people have raised questions about possible kidney damage from long-term use of Quercetin at high doses, but I have not heard about risks from lower doses for shorter-term use. There’s also a risk in not treating covid to many organs (including kidneys). Quercetin was very important for me - it has anti-viral activity and reduces inflammation. After Quercetin and NAC my oxygen levels would rise from the 60s to the 80s and I would be able to work well for most of the day.  Isoquercetin is superior to Quercetin but may be harder to obtain.  (Can be ordered from Amazon US and reshipped to UK via Skypax US).  Quercetin hydrate powder might be useful for smaller children.
 
 1. **Bromelain** - enzyme to increase bioavailability of Quercetin.
 
