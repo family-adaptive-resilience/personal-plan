@@ -3,8 +3,8 @@
 Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share what I personally did and found helpful when I caught covid in March. This is not advice or a suggested treatment plan, and you ought to seek medical advice as appropriate.
 
 ## Amazon Shopping List
-[Covid shopping list (WIP)](https://www.amazon.co.uk/hz/wishlist/ls/3GJCMT04QC1ZR?ref_=wl_share)
-
+[Covid preparation list on Amazon UK](https://www.amazon.co.uk/gp/registry/wishlist/2MM4TQRE5ZXP6/ref=bnav_topnav_lists_3?) \
+This is not comprehensive but is a good starting point. Ambroxyl is a no-brainer (do read the instructions if you are eg breast feeding) to have at home and is available over-the-counter in many countries. The list does not include the pharmaceuticals listed below which need to be sourced elsewhere, nor does it include all of Laeeth's items. 
 
 ## Preparation
 We are leaving the world of yesterday where life seemed to lack meaning to many.  When preparing for covid consider that **every little thing you do matters.**  It's not just about reducing you chance of catching it, but also about viral load.  It's not just about taking action to minimise your risk of death, but also to reduce your chance of extended life-altering disability due to long covid.
@@ -14,7 +14,7 @@ We are leaving the world of yesterday where life seemed to lack meaning to many.
 - eBay UK, US, Thailand (you can change the store from the site/app)
 - Amazon UK, US, Germany
 - etsy
-- Vanuata Pharmacy
+- [Vanuatu Pharmacy](https://www.inhousepharmacy.vu/)
 
 Amazon US may not ship to certain countries.  You can use a reshipping service like Skypax US.
 
