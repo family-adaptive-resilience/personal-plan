@@ -300,7 +300,9 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [Dr Been - How Ivermectin helps against covid](https://www.youtube.com/watch?v=JEO7Adv3tVI)
  
 <details>
-  <summary>### Social media - to follow</summary>
+  <summary>**Social media - to follow**</summary>
+
+  ### Social media - to follow
 
   #### Twitter
    - [__@ice9](https://twitter.com/__ice9)
