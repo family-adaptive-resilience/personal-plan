@@ -307,4 +307,12 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [Dr Been](https://www.youtube.com/c/USMLEOnline/videos)
  - [This Week in Virology](https://www.youtube.com/c/VincentRacaniello/videos)
  
- 
+#### Forums
+- [virological](https://virological.org/)
+- [r/China_Flu](https://www.reddit.com/r/China_Flu/)
+- [r/Coronavirus](https://www.reddit.com/r/Coronavirus/)
+- [r/COVID](https://www.reddit.com/r/COVID)
+- [r/COVID19](https://www.reddit.com/r/COVID19)
+- [r/COVID19positive](https://www.reddit.com/r/COVID19positive)
+- [r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)
+- [r/covidpositive](https://www.reddit.com/r/covidpositive/)
