@@ -253,18 +253,18 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 ### Social media - to follow
 
 #### Twitter
- - [__@ice9](https://twitter.com/__ice9) on Twitter
+ - [__@ice9](https://twitter.com/__ice9)
  - [@farid__jalali](https://twitter.com/farid__jalali)
- - [DrEricDing](https://twitter.com/DrEricDing)
- - [BallouxFrancois](https://twitter.com/BallouxFrancois)
- - [Covid19Crusher](https://twitter.com/Covid19Crusher)
- - [NewsMedical](https://twitter.com/NewsMedical)
- - [EricTopol](https://twitter.com/EricTopol)
- - [US CDC](https://twitter.com/CDCgov)
- - [Michael Mina](https://twitter.com/michaelmina_lab)
- - [drbeen_medical](https://twitter.com/drbeen_medical)
- - [Dr Nassim Taleb](https://twitter.com/nntaleb)
- - [Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
+ - [@DrEricDing](https://twitter.com/DrEricDing)
+ - [@BallouxFrancois](https://twitter.com/BallouxFrancois)
+ - [@Covid19Crusher](https://twitter.com/Covid19Crusher)
+ - [@NewsMedical](https://twitter.com/NewsMedical)
+ - [@EricTopol](https://twitter.com/EricTopol)
+ - [@US CDC](https://twitter.com/CDCgov)
+ - [@Michael Mina](https://twitter.com/michaelmina_lab)
+ - [@drbeen_medical](https://twitter.com/drbeen_medical)
+ - [@Dr Nassim Taleb](https://twitter.com/nntaleb)
+ - [@Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
  
 #### YouTube
  - [Dr John Campbell](https://www.youtube.com/c/Campbellteaching/videos)
