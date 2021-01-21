@@ -20,7 +20,7 @@ Amazon US may not ship to certain countries.  You can use a reshipping service l
 
 #### List
 <details>
-  <summary>basic preparations that everyone should do</summary>
+  <summary>click to see basic preparations that everyone should do</summary>
   
   1. **Supplements/Medicines/First Aid Kit**
   Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
@@ -35,7 +35,7 @@ Amazon US may not ship to certain countries.  You can use a reshipping service l
   Cost from Amazon is GBP250 to 400.  UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice.
 </details>
 <details>
-  <summary>More advanced preparations</summary>
+  <summary>click for more advanced preparations</summary>
   1. **HEPA respirator** (optional)
   I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
 
@@ -181,22 +181,26 @@ Some people have raised questions about possible kidney damage from long-term us
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
-### Ordering and shipping
-- Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118)
-- Niclosamide (Yomesan) - [Pharmasana](https://www.pharmasana.co.uk/yomesan-500-mg-kautabletten-4-st-01140720), Zenda on eBay US, vendors on [India Mart](indiamart.com)
-- Nitazoxanide - [Vanuata pharmacy](https://www.inhousepharmacy.vu/), [India Mart](indiamart.com)
-- Hydroxychloroquine - telemedicine, [India Mart](indiamart.com)
-- Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
-- Doxycycline - Vanuata, telemedicine, [India Mart](indiamart.com)
-- Aspirin - OTC
-- Famotidine - [Amazon US](amazon.com), eBay US, [India Mart](indiamart.com)
-- Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
-- Colchicine - [Vanuata](https://www.inhousepharmacy.vu/), telemedicine, [India Mart](indiamart.com)
-- Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
+<details>
+  <summary>### Ordering and shipping</summary>
+  - Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118)
+  - Niclosamide (Yomesan) - [Pharmasana](https://www.pharmasana.co.uk/yomesan-500-mg-kautabletten-4-st-01140720), Zenda on eBay US, vendors on [India Mart](indiamart.com)
+  - Nitazoxanide - [Vanuata pharmacy](https://www.inhousepharmacy.vu/), [India Mart](indiamart.com)
+  - Hydroxychloroquine - telemedicine, [India Mart](indiamart.com)
+  - Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
+  - Doxycycline - Vanuata, telemedicine, [India Mart](indiamart.com)
+  - Aspirin - OTC
+  - Famotidine - [Amazon US](amazon.com), eBay US, [India Mart](indiamart.com)
+  - Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
+  - Colchicine - [Vanuata](https://www.inhousepharmacy.vu/), telemedicine, [India Mart](indiamart.com)
+  - Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
+</details>
 
-**To Do**
-- add doses
-- add more colour, references to research, doses, sources
+<details>
+  <summary>**To Do**</summary>
+  - add doses
+  - add more colour, references to research, doses, sources
+</details>
 
 ### Dual-entry inhibition
 @__ice9 on Twitter [says](https://twitter.com/__ice9/status/1343999679672033280?s=20):
