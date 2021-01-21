@@ -4,7 +4,7 @@ Symmetry cannot provide medical advice, but in the circumstances I thought that 
 
 ## Amazon Shopping List
 [Covid preparation list on Amazon UK](https://www.amazon.co.uk/gp/registry/wishlist/2MM4TQRE5ZXP6/ref=bnav_topnav_lists_3?) \
-This is not comprehensive but is a good starting point. Ambroxyl is a no-brainer (do read the instructions if you are eg breast feeding) to have at home and is available over-the-counter in many countries. The list does not include the pharmaceuticals listed below which need to be sourced elsewhere, nor does it include all of Laeeth's items. 
+This is not comprehensive but is a good starting point. Ambroxol is a no-brainer (do read the instructions if you are eg breast feeding) to have at home and is available over-the-counter in many countries. The list does not include the pharmaceuticals listed below which need to be sourced elsewhere, nor does it include all of Laeeth's items. 
 
 ## Preparation
 We are leaving the world of yesterday where life seemed to lack meaning to many.  When preparing for covid consider that **every little thing you do matters.**  It's not just about reducing you chance of catching it, but also about viral load.  It's not just about taking action to minimise your risk of death, but also to reduce your chance of extended life-altering disability due to long covid.
@@ -23,7 +23,7 @@ Amazon US may not ship to certain countries.  You can use a reshipping service l
 Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
 
 1. **N99/N100 masks**
-N99/N100 masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
+N99/N100 (FFP3) masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
 
 1. **HEPA respirator** (optional)
 I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
@@ -35,7 +35,7 @@ Ensure that you know how to use it and read it. Consider buying one for younger 
 Cost from Amazon is GBP250 to 400.  UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice.
 
 1. **UV wands**
-Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
+Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant.
 
 1. **UV sterilizing boxes**
 Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
@@ -43,7 +43,7 @@ Amazon - make sure they have safety features.  If you get sick then it’s bette
 1. **Air Humidifiers**
 Humidifiers are available on Amazon.  They may [ease covid symptoms](https://www.usatoday.com/story/tech/reviewedcom/2020/03/10/best-humidifiers-ease-coronavirus-symptoms/5012687002/) as well as [reducing the spread of covid indoors](https://www.businessinsider.com/humidifiers-could-reduce-coronavirus-transmission-risk-indoors-2020-12)
 
-### Planning - what happens if household member catches covid?
+### Planning - what happens if a household member catches covid?
 Have a mini-plan about what you will do if you get sick or your partner or flatmate does.  It’s very infectious, but in the previous waves I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. (The attack rate is higher with the more contagious Type G strain, but it's still possible to avoid catching covid).  My wife and daughter didn’t seem to catch it this time.  Every little thing you do matters because even if you catch it then the outcome will be better if you have a lower viral dose than a higher viral dose.
 
 - If you have children, who will look after them?
@@ -95,7 +95,7 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 9.**Early treatment**
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
 
-10.**[Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  __ice9 took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
+10.**[Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  @__ice9 on Twitter took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
 > personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV. I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible. Also helps in cleaning up after discarding spoiled fruit etc.
 
 11. Important: **prone** - lying on your front (prone) increases the amount of oxygen you can get into your lungs. [Doctors realised this](https://edition.cnn.com/2020/04/14/health/coronavirus-prone-positioning/index.html) earlier in the year when they observed the benefit to patients. This is worth considering if one encounters breathing problems.
@@ -121,7 +121,7 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Liposomal vitamin C** - fat-soluble vitamin C
 
-**Magnesium Biglycinate** anti-inflammatory. Take before bed on empty stomach.  I gave myself magnesium intramuscular shots that I had prescribed for me for other reasons. There can be problems absorbing Magnesium through the gut, so I would consider this option in the event it’s open to you. Otherwise you might try taking several different forms of magnesium.  Maybe a high dose like 2 grammes throughout the day.  Magnesium is necessary for vitamin D to be most effective. It both is depleted by [stress] (https://www.ncbi.nlm.nih.gov/books/NBK507250/) and buffers the effects of stress. 
+1. **Magnesium** anti-inflammatory and necessary for vitamin D to be mosr effective.  It both is depleted by [stress] (https://www.ncbi.nlm.nih.gov/books/NBK507250/) and buffers the effects of stress.  I gave myself magnesium intramuscular shots that I had prescribed for me for other reasons; if this option is open to you then it is worth considering as there can be problems absorbing Magnesium through the gut.  Otherwise you might try taking several different forms of magnesium - Magnesium Bisglycinate is well-absorbed.  Take before bed on empty stomach  Maybe a high dose like 2 grammes.
 
 1. **Undenatured whey** protein, or failing that just regular whey protein
 
@@ -166,7 +166,8 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 #### TMPRSS entry inhibition
 1. **Ambroxol** or **Bromhexine**. Bromhexine metabolizes into Ambroxol, the active compound, in the bloodstream. Both are sold over the counter (without a prescription) in many European countries as a cough medicine. As best I can tell they seem to be reasonably safe and are available for children as well as adults. @__ice9 [says](https://twitter.com/__ice9/status/1289164553603788805?s=20) "Ambroxol triggers the release in the lungs of endogenous compounds known to be inhibitory to serine proteases.  As a cell-membrane-localized serine protease, TMPRSS2 would be fully exposed to them.  It likely gets inhibited likewise."  Prevents Covid attaching to TMPRSS receptor which may mean they have some prophylactic value and there may be some synergy with hydroxychloroquine (which in part prevents covid attaching to ACE2 receptor, the other entry target).  Ambroxol is also a lung surfactant.   Bromhexine dosage 8mg 3x daily.
 
-1. **camostat** or **nafamostat**
+1. **Camostat** or **Nafamostat**.  Bromhexine/Ambroxol work only in lungs.  These may be useful for systemic infection (eg gut).  Camostat may be obtained from [Bio Japan](https://bio-japan.net).
+
 
 #### Endosomal entry inhibition
 1. **Nitazoxanide**.  Prescription medication.  Probably more effective than Niclosamide, but harder to obtain
@@ -180,14 +181,15 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
 
-### Anti-coagulation
-1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
-
 1. **Famotidine / Pepsid AC**.  Anti-viral effects.  Be careful of drug interactions.  This suppresses stomach acid, and it's advisable to consider taking with Betadine HCL (Amazon) and probiotics.
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.  Recommended by [Dr Hertoghe](https://www.hertoghe.eu/en/)
 
 1. **Colchicine**. Can be used to treat gout and as an anti-inflammatory to treat Bechet's disease. Well tolerated at lower doses. Higher doses can trigger gastrointestinal symptoms. Contra-indicated for certain kidney conditions, and there have been deaths with overdoses. Three recent randomised control trials found benefits including faster recovery time and a reduction in mortaility and ICU admission. 
+
+### Anti-coagulation
+1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
+
 
 ## List of doctors
 
@@ -237,3 +239,24 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
   1. ESR, ESR
   1. EFAR, Essential Fatty Acid Profile (Red Cell)
 </details>
+
+## Other Resources
+
+### Guides
+- [CDC: ventilation in buildings](https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html)
+
+### Social media
+ - [__@ice9](https://twitter.com/__ice9) on Twitter
+ - [@farid__jalali](https://twitter.com/farid__jalali)
+ - [DrEricDing](https://twitter.com/DrEricDing)
+ - [BallouxFrancois](https://twitter.com/BallouxFrancois)
+ - [Covid19Crusher](https://twitter.com/Covid19Crusher)
+ - [NewsMedical](https://twitter.com/NewsMedical)
+ - [EricTopol](https://twitter.com/EricTopol)
+ - [US CDC](https://twitter.com/CDCgov)
+ - [Michael Mina](https://twitter.com/michaelmina_lab)
+ - [drbeen_medical](https://twitter.com/drbeen_medical
+ - [Dr Nassim Taleb](https://twitter.com/nntaleb)
+ - [Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
+ 
+ 
