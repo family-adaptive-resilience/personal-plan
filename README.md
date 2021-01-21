@@ -127,8 +127,11 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 9.**Early treatment**
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
 
-10.**[Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  @__ice9 on Twitter took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
-> personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV. I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible. Also helps in cleaning up after discarding spoiled fruit etc.
+<details>
+  <summary>10. Air Conditioning Hacks</summary>
+  [Air conditioning hacks](https://t.co/SzlQkdESov)**.  I do not advise the following because it's easy to end up hurting yourself.  @__ice9 on Twitter took the following steps to sterilise air conditioning.  Don't copy him unless you are as talented as him.
+  > personally, I simply placed a 36W quartz mercury vapor UV-C aquarium sanitizing bulb inside the main intake for my residential HVAC system.  It runs continuously.  Sometimes I ran exposed 11W bulbs of the same nature in spaces I believed to have a higher risk of contamination at a given time.  Oh I see what you were asking-- yes any open use of UV-C bulbs needs to be in unoccupied spaces to prevent UV burns to the skin or corneas.   254nm is not vacuum UV. I also do not notice any ozone odor from ozone-free models, even in the immediate vicinity of one just after shutdown.  Ozone can be perceived as low as 5 parts per billion.  Hence I think 185nm leakage is likely negligible. Also helps in cleaning up after discarding spoiled fruit etc.
+</details>
 
 11. Important: **prone** - lying on your front (prone) increases the amount of oxygen you can get into your lungs. [Doctors realised this](https://edition.cnn.com/2020/04/14/health/coronavirus-prone-positioning/index.html) earlier in the year when they observed the benefit to patients. This is worth considering if one encounters breathing problems.
 
@@ -300,7 +303,7 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [Dr Been - How Ivermectin helps against covid](https://www.youtube.com/watch?v=JEO7Adv3tVI)
  
 <details>
-  <summary>**Social media - to follow**</summary>
+  <summary>Social media - to follow</summary>
 
   ### Social media - to follow
 
