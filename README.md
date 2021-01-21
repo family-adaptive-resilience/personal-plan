@@ -245,7 +245,14 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 ### Guides
 - [CDC: ventilation in buildings](https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html)
 
-### Social media
+### Social media - key episodes
+ - [John Campbell - Vitamin D with David Davis,MP](https://www.youtube.com/watch?v=bQyhjQUjHjU)
+ - [John Campbell - Vitamin D deficiency in the UK](https://www.youtube.com/watch?v=Qwaq4oRnpjY)
+ - [Dr Been - How Ivermectin helps against covid](https://www.youtube.com/watch?v=JEO7Adv3tVI)
+ 
+### Social media - to follow
+
+#### Twitter
  - [__@ice9](https://twitter.com/__ice9) on Twitter
  - [@farid__jalali](https://twitter.com/farid__jalali)
  - [DrEricDing](https://twitter.com/DrEricDing)
@@ -258,5 +265,10 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [drbeen_medical](https://twitter.com/drbeen_medical)
  - [Dr Nassim Taleb](https://twitter.com/nntaleb)
  - [Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
+ 
+#### YouTube
+ - [Dr John Campbell](https://www.youtube.com/c/Campbellteaching/videos)
+ - [Dr Been](https://www.youtube.com/c/USMLEOnline/videos)
+ - [This Week in Virology](https://www.youtube.com/c/VincentRacaniello/videos)
  
  
