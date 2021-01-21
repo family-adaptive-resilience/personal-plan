@@ -62,7 +62,30 @@ The NHS constrains treatment choices based on evidence from randomised controlle
 Private doctors in the UK who prescribe treatments not approved by the National Institute for Clinical Excellence face persecution from regulatory agencies.
 It’s possible to receive tele-medicine from doctors abroad, including North America. Please contact @dominic if you would like to receive what information we have been able to find at this point.
 
-## General - what I think one should consider if one gets covid
+## Testing
+- Rapid lateral flow antigen home strip tests if available
+- Kensington & Chelsea town hall does lateral flow strip tests (to be confirmed)
+- PCR test (try to ask the Ct number)
+- SpO2 oxygen saturation using pulse oximeter
+
+## General - what I think one should do if one suspects one has covid
+- Use antigen strip lateral flow tests if available to test oneself and household members
+- Get a PCR test for oneself and possibly household members
+- Start monitoring SpO2 (oxygen saturation) using pulse oximeter
+- Contact Dom
+- On first symptoms or clinical suspicion consider starting the following.  Anti-virals works best when taken early on and it will be some time before infection can be confirmed with PCR test.
+  1. Quercetin (ideally Isoquercetin) with Bromelain to enhance absorption
+  1. Zinc
+  1. Vitamin D (why didn't you start before?)
+  1. Vitamin C
+  1. N Acetyl Cysteine
+  1. Ivermectin
+  1. Ambroxol 30mg 3x daily or Bromhexine 8mg 3x daily
+  1. Niclosamide
+
+Ideally under supervision of a doctor and in any case paying due care to risks and cautions for the medications.  For example may be advised against if breast-feeding.
+
+## General - what I think one should do if one has covid
 
 0.I do not intend to cover basics like masks and hand washing here.
 
@@ -76,7 +99,7 @@ Don’t be like Boris - it’s a bad idea to overwork - if you do choose to work
 Don’t be like Boris - do not start exercising until at least a few weeks after you feel completely well and symptoms have resolved; I suggest having a full medical checkup first. Covid can impair metabolism and cause damage to the heart and circulation, so vigorous exercise without having the all-clear first could be quite bad.
 
 4.**Sleep**
-Sleep is very important for covid, yet at the same time it can cause insomnia. Don’t feel bad about not being able to sleep. I found that melatonin helped with sleep. (See below).
+Sleep is very important for covid, yet at the same time it can cause insomnia. Don’t feel bad about not being able to sleep. I found that GABA and melatonin helped with sleep. (See below).
 
 5.**Monitor your SpO2 and heart rate**
 Pulse oximeter can measure both. If you don’t have one or do not know how to use then email @dominic. (Some good instructions can be found on YouTube). I found my resting heart rate was 10bpm higher than normal and would shoot up to 120bpm after modest emotional stress. It seems to have completely normalised after following my own regime for some months. Normally < 94 % SpO2 is a medical emergency. Mine was as low as 58 - and when it was in the 60s I still didn’t feel that bad.
@@ -129,13 +152,22 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Ubiquinol** and **Acetyl-L-Carnitine** for mitochondrial support.  300mg Ubiquinol and 500mg *2 for Acetyl-l-carnitine
 
+1. **[GABA](https://www.amazon.com/Now-Gaba-750mg-Vcaps-2pack/dp/B00IXXMAGI/ref=sr_1_5?dchild=1&keywords=GABA&qid=1611220648&sr=8-5)** 750mg 2x daily.  (Amazon US).  Helps with sleep.  Protective and calming effect on brain and body.
+
 1. **Carbon 60** in olive oil.  This is a relatively new supplement so we do not know all the risks, but it seems to be a powerful anti-inflammatory.
 
 1. **Vitamin E**
 
 1. **Vitamin B2**
 
-1. **Symprov** probiotics (Amazon).
+1. **[Symprov](https://www.amazon.co.uk/Symprove-Active-Bacteria-Daily-Supplement/dp/B0086VZ3G6/ref=sr_1_4?dchild=1&keywords=symprove&qid=1611220575&sr=8-4)** probiotics (Amazon).  Gut health is very important for covid and immune regulation.
+
+## Diet
+
+1. Avoid sugar and high-glycemic foods.  Covid severity seems to be correlated with insulin resistance, and sugar is bad for your immune system
+1. Protein (see above on whey protein)
+1. [Cabbage and pickled vegetables](https://nypost.com/2020/07/20/foods-containing-cabbage-could-help-fight-coronavirus/)
+
 
 ## Medications
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
@@ -190,6 +222,10 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 ### Anti-coagulation
 1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
 
+### Post-covid / long-covid
+- Ivermectin
+- Niclosamide
+- Thymosin Alpha One
 
 ## List of doctors
 
