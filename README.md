@@ -299,33 +299,35 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [John Campbell - Vitamin D deficiency in the UK](https://www.youtube.com/watch?v=Qwaq4oRnpjY)
  - [Dr Been - How Ivermectin helps against covid](https://www.youtube.com/watch?v=JEO7Adv3tVI)
  
-### Social media - to follow
+<details>
+  <summary>### Social media - to follow</summary>
 
-#### Twitter
- - [__@ice9](https://twitter.com/__ice9)
- - [@farid__jalali](https://twitter.com/farid__jalali)
- - [@DrEricDing](https://twitter.com/DrEricDing)
- - [@BallouxFrancois](https://twitter.com/BallouxFrancois)
- - [@Covid19Crusher](https://twitter.com/Covid19Crusher)
- - [@NewsMedical](https://twitter.com/NewsMedical)
- - [@EricTopol](https://twitter.com/EricTopol)
- - [@US CDC](https://twitter.com/CDCgov)
- - [@Michael Mina](https://twitter.com/michaelmina_lab)
- - [@drbeen_medical](https://twitter.com/drbeen_medical)
- - [@Dr Nassim Taleb](https://twitter.com/nntaleb)
- - [@Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
- 
-#### YouTube
- - [Dr John Campbell](https://www.youtube.com/c/Campbellteaching/videos)
- - [Dr Been](https://www.youtube.com/c/USMLEOnline/videos)
- - [This Week in Virology](https://www.youtube.com/c/VincentRacaniello/videos)
- 
-#### Forums
-- [virological](https://virological.org/)
-- [r/China_Flu](https://www.reddit.com/r/China_Flu/)
-- [r/Coronavirus](https://www.reddit.com/r/Coronavirus/)
-- [r/COVID](https://www.reddit.com/r/COVID)
-- [r/COVID19](https://www.reddit.com/r/COVID19)
-- [r/COVID19positive](https://www.reddit.com/r/COVID19positive)
-- [r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)
-- [r/covidpositive](https://www.reddit.com/r/covidpositive/)
+  #### Twitter
+   - [__@ice9](https://twitter.com/__ice9)
+   - [@farid__jalali](https://twitter.com/farid__jalali)
+   - [@DrEricDing](https://twitter.com/DrEricDing)
+   - [@BallouxFrancois](https://twitter.com/BallouxFrancois)
+   - [@Covid19Crusher](https://twitter.com/Covid19Crusher)
+   - [@NewsMedical](https://twitter.com/NewsMedical)
+   - [@EricTopol](https://twitter.com/EricTopol)
+   - [@US CDC](https://twitter.com/CDCgov)
+   - [@Michael Mina](https://twitter.com/michaelmina_lab)
+   - [@drbeen_medical](https://twitter.com/drbeen_medical)
+   - [@Dr Nassim Taleb](https://twitter.com/nntaleb)
+   - [@Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
+
+  #### YouTube
+   - [Dr John Campbell](https://www.youtube.com/c/Campbellteaching/videos)
+   - [Dr Been](https://www.youtube.com/c/USMLEOnline/videos)
+   - [This Week in Virology](https://www.youtube.com/c/VincentRacaniello/videos)
+
+  #### Forums
+  - [virological](https://virological.org/)
+  - [r/China_Flu](https://www.reddit.com/r/China_Flu/)
+  - [r/Coronavirus](https://www.reddit.com/r/Coronavirus/)
+  - [r/COVID](https://www.reddit.com/r/COVID)
+  - [r/COVID19](https://www.reddit.com/r/COVID19)
+  - [r/COVID19positive](https://www.reddit.com/r/COVID19positive)
+  - [r/covidlonghaulers](https://www.reddit.com/r/covidlonghaulers/)
+  - [r/covidpositive](https://www.reddit.com/r/covidpositive/)
+</details>
