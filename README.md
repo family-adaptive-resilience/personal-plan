@@ -19,29 +19,38 @@ We are leaving the world of yesterday where life seemed to lack meaning to many.
 Amazon US may not ship to certain countries.  You can use a reshipping service like Skypax US.
 
 #### List
-1. **Supplements/Medicines/First Aid Kit**
-Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
+<details>
+  <summary>basic preparations that everyone should do</summary>
+  
+  1. **Supplements/Medicines/First Aid Kit**
+  Stock up on covid supplements and existing medication before you need either. You don’t want to be waiting a week for an Amazon order if you develop covid symptoms. Consider purchasing medication from trusted sources before you need it if you decide to take an independent-minded approach. Unregulated internet pharmacies may have product of uncertain quality, and that’s also a risk to bear in mind.
 
-1. **N99/N100 masks**
-N99/N100 (FFP3) masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
+  1. **N99/N100 masks**
+  N99/N100 (FFP3) masks are ideal, but N95/FFP2 masks are better than surgical masks and surgical masks are better than T-shirt+ tights material layered masks and the latter are better than regular fabric masks.
 
-1. **HEPA respirator** (optional)
-I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
+  1. **Pulse oximeter** with spare batteries
+  Ensure that you know how to use it and read it. Consider buying one for younger children if you have them (available for a low price on Amazon); consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
 
-1. **Pulse oximeter** with spare batteries
-Ensure that you know how to use it and read it. Consider buying one for younger children if you have them (available for a low price on Amazon); consider buying two pulse oximeters (or buying a second one the moment someone gets sick) if you live with other people, because otherwise you risk infecting people through shared use of the device.
+  1. **Oxygen concentrator with a few spare nasal cannulas**
+  Cost from Amazon is GBP250 to 400.  UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice.
+</details>
+<details>
+  <summary>More advanced preparations</summary>
+  1. **HEPA respirator** (optional)
+  I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
 
-1. **Oxygen concentrator with a few spare nasal cannulas**
-Cost from Amazon is GBP250 to 400.  UK hospitals are running out of beds, and nationally and internationally there are oxygen shortages at times.  I would not suggest taking oxygen without medical advice, but personally I was glad to have had a choice.
+  1. **UV wands**
+  Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant.
 
-1. **UV wands**
-Amazon - make sure they have safety features. If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant.
+  1. **UV sterilizing boxes**
+  Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
 
-1. **UV sterilizing boxes**
-Amazon - make sure they have safety features.  If you get sick then it’s better to have some way of sterlising objects than to be dependent on using disinfectant
-
-1. **Air Humidifiers**
-Humidifiers are available on Amazon.  They may [ease covid symptoms](https://www.usatoday.com/story/tech/reviewedcom/2020/03/10/best-humidifiers-ease-coronavirus-symptoms/5012687002/) as well as [reducing the spread of covid indoors](https://www.businessinsider.com/humidifiers-could-reduce-coronavirus-transmission-risk-indoors-2020-12)
+  1. **Air Humidifiers**
+  Humidifiers are available on Amazon.  They may [ease covid symptoms](https://www.usatoday.com/story/tech/reviewedcom/2020/03/10/best-humidifiers-ease-coronavirus-symptoms/5012687002/) as well as [reducing the spread of covid indoors](https://www.businessinsider.com/humidifiers-could-reduce-coronavirus-transmission-risk-indoors-2020-12)
+  
+  1. **Water filters**
+  Covid is present in wastewater and in large cities in the West there are incidences of discharge of untreated sewage into rivers (happens weekly in Britain from what I read).  It's unknown whether water treatment plants are completely effective at removing covid from water and there are some reasons for concern.  So it may be worth buying a UV water bottle for sterilising drinking water (available on Amazon), and conceivably a mains UV sterilizer for the whole house (costs a few hundred pounds, available on Amazon but will require a plumber to fit).
+</details>
 
 ### Planning - what happens if a household member catches covid?
 Have a mini-plan about what you will do if you get sick or your partner or flatmate does.  It’s very infectious, but in the previous waves I think the attack rate is only 10 - 20% within households: you do stand a chance of avoiding infecting others if you are careful. (The attack rate is higher with the more contagious Type G strain, but it's still possible to avoid catching covid).  My wife and daughter didn’t seem to catch it this time.  Every little thing you do matters because even if you catch it then the outcome will be better if you have a lower viral dose than a higher viral dose.
