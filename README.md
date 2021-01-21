@@ -185,24 +185,27 @@ Some people have raised questions about possible kidney damage from long-term us
 I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
 <details>
-  <summary>### Ordering and shipping</summary>
-  - Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118)
-  - Niclosamide (Yomesan) - [Pharmasana](https://www.pharmasana.co.uk/yomesan-500-mg-kautabletten-4-st-01140720), Zenda on eBay US, vendors on [India Mart](indiamart.com)
-  - Nitazoxanide - [Vanuata pharmacy](https://www.inhousepharmacy.vu/), [India Mart](indiamart.com)
-  - Hydroxychloroquine - telemedicine, [India Mart](indiamart.com)
-  - Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
-  - Doxycycline - Vanuata, telemedicine, [India Mart](indiamart.com)
-  - Aspirin - OTC
-  - Famotidine - [Amazon US](amazon.com), eBay US, [India Mart](indiamart.com)
-  - Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
-  - Colchicine - [Vanuata](https://www.inhousepharmacy.vu/), telemedicine, [India Mart](indiamart.com)
-  - Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
+  <summary>Ordering and shipping</summary>
+  ### Ordering and shipping
+  
+    - Ambroxol/Bromhexine - eBay, Amazon DE, etsy,  or from a [German pharmacy](https://apotheken.apoly.de/app/en/apo/apotheke-marienbrunn/regional/medikamente/ambroxol-30-heumann/03882118)
+    - Niclosamide (Yomesan) - [Pharmasana](https://www.pharmasana.co.uk/yomesan-500-mg-kautabletten-4-st-01140720), Zenda on eBay US, vendors on [India Mart](indiamart.com)
+    - Nitazoxanide - [Vanuata pharmacy](https://www.inhousepharmacy.vu/), [India Mart](indiamart.com)
+    - Hydroxychloroquine - telemedicine, [India Mart](indiamart.com)
+    - Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
+    - Doxycycline - Vanuata, telemedicine, [India Mart](indiamart.com)
+    - Aspirin - OTC
+    - Famotidine - [Amazon US](amazon.com), eBay US, [India Mart](indiamart.com)
+    - Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
+    - Colchicine - [Vanuata](https://www.inhousepharmacy.vu/), telemedicine, [India Mart](indiamart.com)
+    - Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
 </details>
 
 <details>
-  <summary>**To Do**</summary>
-  - add doses
-  - add more colour, references to research, doses, sources
+  <summary>To Do</summary>
+  ### To DO
+    - add doses
+    - add more colour, references to research, doses, sources
 </details>
 
 ### Dual-entry inhibition
