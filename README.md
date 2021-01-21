@@ -148,7 +148,7 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
 - Ivermectin - telemedicine; risks of vet sources uncertain but see Duramect and Animect from eBay US and Amazon US
 - Doxycycline - Vanuata, telemedicine, [India Mart](indiamart.com)
 - Aspirin - OTC
-- Famotidine - Amazon US, eBay US, [India Mart](indiamart.com)
+- Famotidine - [Amazon US](amazon.com), eBay US, [India Mart](indiamart.com)
 - Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
 - Colchicine - Vanuata, telemedicine, [India Mart](indiamart.com)
 - Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
@@ -255,7 +255,7 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
  - [EricTopol](https://twitter.com/EricTopol)
  - [US CDC](https://twitter.com/CDCgov)
  - [Michael Mina](https://twitter.com/michaelmina_lab)
- - [drbeen_medical](https://twitter.com/drbeen_medical
+ - [drbeen_medical](https://twitter.com/drbeen_medical)
  - [Dr Nassim Taleb](https://twitter.com/nntaleb)
  - [Dr Scott Gottlieb](https://twitter.com/ScottGottliebMD)
  
