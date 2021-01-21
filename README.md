@@ -213,7 +213,7 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
 
-1. **Famotidine / Pepsid AC**.  Anti-viral effects.  Be careful of drug interactions.  This suppresses stomach acid, and it's advisable to consider taking with Betadine HCL (Amazon) and probiotics.
+1. **Famotidine / Pepsid AC**.  Anti-viral effects.  Covid may be a serotinin excess syndrome, and there are benefits from the serotonin-blocking effects of famotidine.  Be careful of drug interactions.  This suppresses stomach acid, and it's advisable to consider taking with Betadine HCL (Amazon) and probiotics.
 
 1. **Thymosin Alpha One**.  Stimulates immune system.  I took later on.  Hard to tell the benefit but may be especially valuable for older people.  Injectable subcutaneously.  Recommended by [Dr Hertoghe](https://www.hertoghe.eu/en/)
 
