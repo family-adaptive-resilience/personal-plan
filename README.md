@@ -179,6 +179,9 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **[Symprov](https://www.amazon.co.uk/Symprove-Active-Bacteria-Daily-Supplement/dp/B0086VZ3G6/ref=sr_1_4?dchild=1&keywords=symprove&qid=1611220575&sr=8-4)** probiotics (Amazon).  Gut health is very important for covid and immune regulation.
 
+1. **[Glycyrrhizin in licorice](https://www.news-medical.net/amp/news/20210105/Glycyrrhizin-in-licorice-root-neutralizes-SARS-CoV-2-in-vitro-by-inhibiting-the-main-protease-Mpro.aspx)
+
+
 ## Diet
 
 1. Avoid sugar and high-glycemic foods.  Covid severity seems to be correlated with insulin resistance, and sugar is bad for your immune system
