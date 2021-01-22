@@ -181,6 +181,9 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **[Glycyrrhizin in licorice](https://www.news-medical.net/amp/news/20210105/Glycyrrhizin-in-licorice-root-neutralizes-SARS-CoV-2-in-vitro-by-inhibiting-the-main-protease-Mpro.aspx)
 
+1. **Curcumin high-availability**
+
+1. **Omega 3 epa dha** eg vegepa
 
 ## Diet
 
