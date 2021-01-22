@@ -169,7 +169,7 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Ubiquinol** and **Acetyl-L-Carnitine** for mitochondrial support.  300mg Ubiquinol and 500mg *2 for Acetyl-l-carnitine
 
-1. **[GABA](https://www.amazon.com/Now-Gaba-750mg-Vcaps-2pack/dp/B00IXXMAGI/ref=sr_1_5?dchild=1&keywords=GABA&qid=1611220648&sr=8-5)** 750mg 2x daily.  (Amazon US).  Helps with sleep.  [Protective and calming effect on brain and body](https://www.medicalnewstoday.com/articles/326847#about).
+1. **[GABA](https://www.amazon.com/Now-Gaba-750mg-Vcaps-2pack/dp/B00IXXMAGI/ref=sr_1_5?dchild=1&keywords=GABA&qid=1611220648&sr=8-5)** 750mg 2x daily.  (Amazon US).  Helps with sleep.  [Protective and calming effect on brain and body](https://www.medicalnewstoday.com/articles/326847#about).  See also [@__ice9](https://twitter.com/__ice9/status/1351450006461550592?s=19).
 
 1. **Carbon 60** in olive oil.  This is a relatively new supplement so we do not know all the risks, but it seems to be a powerful anti-inflammatory.
 
