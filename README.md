@@ -335,13 +335,17 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. IL4 - significantly elevated in long covid.  Cytokine produced by MAST cells inducing differentiation naive helper T ccells.
 1. CCL3 - significantly elevated in long covid.  Chenokine involved in acute inflammatory state.  Recruits and activates polymorphonuclear leukocytes.
 1. IL10 - significantly elevated in long covid.
+1. IL8 - very elevated in acute cases but not post-acute
+1. IL17
+1. IL13
 1. IFN gamma - significantly elevated in long covid.  Cytokine produced by NK and NKT cells as immune response.
 1. VEGF - significantly elevated in long covid - stimulates formation of blood vessels.
 1. GM-CSF - significantly decreased in long covid. Cytokine that promotes neutrophil proliferation and maturation.
 1. CCL4 - significantly decreased in long covid.
 1. CCL5 (RANTES) -  elevated in long covi, mild and severe acute cases.
 1. B Cells, CD14+ and CD16+ monocytic subset - significantly elevated
-
+1. sCD40L
+1. GM - CSF
 
 <details>
   <summary>All the tests I had done - might be overkill</summary>
