@@ -49,7 +49,11 @@ Amazon US may not ship to certain countries.  You can use a reshipping service l
   Humidifiers are available on Amazon.  They may [ease covid symptoms](https://www.usatoday.com/story/tech/reviewedcom/2020/03/10/best-humidifiers-ease-coronavirus-symptoms/5012687002/) as well as [reducing the spread of covid indoors](https://www.businessinsider.com/humidifiers-could-reduce-coronavirus-transmission-risk-indoors-2020-12)
   
   1. **Water filters**
-  Covid is present in wastewater and in large cities in the West there are incidences of discharge of untreated sewage into rivers (happens weekly in Britain from what I read).  It's unknown whether water treatment plants are completely effective at removing covid from water and there are some reasons for concern.  So it may be worth buying a UV water bottle for sterilising drinking water (available on Amazon), and conceivably a mains UV sterilizer for the whole house (costs a few hundred pounds, available on Amazon but will require a plumber to fit).
+  Covid is present in wastewater and in large cities in the West there are incidences of discharge of untreated sewage into rivers (happens weekly in Britain from what I read).  It's unknown whether water treatment plants are completely effective at removing covid from water and there are [some reasons for concern](https://www.nature.com/articles/s41893-020-00605-2?s=09
+).  So it may be worth buying a [UV water bottle for sterilising drinking water](https://www.amazon.co.uk/dp/B08MV1WVZR/ref=cm_sw_r_cp_apa_fabc_.FqcGbKNQ1YMC
+), and conceivably a [mains UV sterilizer for the whole house](https://www.amazon.co.uk/dp/B07ZHFSLD2/ref=cm_sw_r_cp_apa_fabc_kKqcGb17D8FT2).
+
+
 </details>
 
 ### Planning - what happens if a household member catches covid?
