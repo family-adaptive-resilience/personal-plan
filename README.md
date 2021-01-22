@@ -297,6 +297,8 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 ### Key Ones
 (first draft, not yet finished and may not yet be quite correct). I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to arrange an appointment, see the doctor, get a prescription for blood tests, take it to TDL around the corner, get blood drawn. Simple process.
 
+[Evidence as to why long haulers are still ill](https://tschmauck.medium.com/finally-evidence-to-why-long-haulers-are-still-ill-512d54f8b164)
+
 1. CT scan lungs
 1. platelet count
 1. DDIT, D-Dimers (Fibrinogen Degradation Products)
