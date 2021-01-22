@@ -214,6 +214,9 @@ I repeat again that neither I nor Symmetry can give medical advice. In the UK th
     - Thymosin Alpha One - telemedicine, [India Mart](indiamart.com)
     - Colchicine - [Vanuata](https://www.inhousepharmacy.vu/), telemedicine, [India Mart](indiamart.com)
     - Camostat - [Bio Japan](https://bio-japan.net/index.php?route=checkout/cart)
+
+  Other locations : India, Mexico, Turkey, Japan, Russia, Latvia, Thailand
+
 </details>
 
 <details>
@@ -244,7 +247,7 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. **Hydroxychloroquine** 200mg 2x daily.  (chloroquine may work but is more toxic). It’s a heavily politicised drug. The first mention I could find in it was on an internal email forwarded from a consultant in China (although I had seen people talking about it on Reddit and Twitter). That was in January. So Trump got the idea from the same sources we did, and we didn’t learn about it through him. HCQ is no wonder drug, but there just aren’t many established treatments. I took 200mg HCQ in the evening and the next morning I felt much better, with my oxygen rising to the high 80s later that day from being 58 before; and I continued to improve in the subsequent days and weeks. I don’t think that was a coincidence. HCQ is probably best taken early on; it’s not going to be very helpful if someone waits till they are very sick. Many of the debunking studies have mistakes verging on what looks almost like fraud - it’s hard to know why that is, but it’s interesting that HCQ is very cheap.
 
 ## Immune modulation / anti-viral
-1. **Ivermectin**. 12mg once every 2 days.  An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.  Some people have purchased Duramect horse paste or Animect injectable for cattle **taken orally** - I can obviously not recommend this, and there are risks but I report this merely as information.
+1. **Ivermectin**. 12mg once every 2 days.  An anti-worm medication that has remarkable anti-inflammatory effects; and most likely indirectly an anti-viral effect too (it has a direct antiviral effect but not at the doses prescribe).  Some benefit for prophylaxis, post-treatment exposure, early, late and post covid.  I have found this helpful for treating the effects of long-covid.  It's used as part of India's treatment pack.  Requires a prescription - you might be able to purchase on the internet or via telemedicine from a doctor abroad.  Risk:reward is very good.  Some people have purchased [Duramect horse paste or Animect injectable for cattle](https://twitter.com/jaysanchezdorta/status/1280312098246086657?s=19) **taken orally** - I can obviously not recommend this, and there are risks but I report this merely as information.
 
 1. **Doxycycline** Fake news - treating a viral infection with an antibiotic?  Well, doxycycline is not only effective against bacteria; it is also effective against other microbial infections.  But there is a dual effect; [doxycycline is also an immune modulator](https://www.eurekaselect.com/59900/article/two-different-functions-doxycycline-which-both-antimicrobial-agent-and-immune) and is used in Indian treatment pack for covid.
 
@@ -263,6 +266,25 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 1. **Colchicine**
 
 1. **Spironolactone**
+
+<details>
+  <summary>Experimental</summary>
+
+  https://docs.google.com/spreadsheets/u/0/d/10rdXbBL4gN72oKTNsWvRkSgxHdJdIj9Ij0pguu9MFwM/htmlview
+
+  1. **[Albendazole](https://twitter.com/__ice9/status/1285775396852703233?s=19)**
+  1. **[Amodiaquine](https://www.wired.com/story/hydroxychloroquine-is-toast-now-say-hi-to-its-dirty-cousin/?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=wired&utm_social-type=earned)**
+  1. **Favipiravir**
+  1. **Injectable Artesunate**
+  1. **Ecosprin**
+  1. **Arbidol / umifenovir** can be bought from [RU Pharma](https://rupharma.com/)
+  1.**[elderberry syrup](https://twitter.com/__ice9/status/1336879200993730563?s=19)**
+  1. **Grippferon (Interferon alpha 2B)[https://twitter.com/__ice9/status/1316112583754158088?s=19]** can be bought from [RU Pharma](https://rupharma.com/) but ideally should be nebulised.  Other [interferon products](https://t.co/t8LbljSfF1).  Dose 125mg, half life 48 hours? [check].  Strong interferon inducer should not be used after a few days of symptoms have elapsed.  Useful at beginning of symptomatic viral infection, not for continued use throughout its course.
+
+  1.**Tilorone** - more intensive interferon inducer
+  1.**Thymus - short peptide bioregulators**.  They generally just increase expression of particular genes, usually transiently via binding to a promoter. For instance, epitalon is a telomerase activator.
+
+</details>
 
 
 ### Anti-coagulation
