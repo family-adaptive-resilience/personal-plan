@@ -36,6 +36,7 @@ Amazon US may not ship to certain countries.  You can use a reshipping service l
 </details>
 <details>
   <summary>click for more advanced preparations</summary>
+  
   1. **HEPA respirator** (optional)
   I bought a [Broad AirPro mask](https://www.broadairpro.com/) - respirator with internal HEPA filter.  Nassim Taleb uses it when flying.
 
@@ -245,10 +246,24 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 ### Anti-coagulation
 1. **Aspirin** [162mg daily](https://twitter.com/farid__jalali/status/1326394936955183105?s=19)
 
-### Post-covid / long-covid
+### Post-entry antivirals
 - Ivermectin
 - Niclosamide
+- Nitazoxanide (partly)
 - Thymosin Alpha One
+- Ciclesonide
+- Mometasone
+- Fluvoxamine
+- Nelfinavir
+- Artesunate
+- Pyronaridine (partly)
+- Indomethacin
+- Opipramol
+- Doxycycline
+- Remdesivir and GS-441524
+- Daclatasvir-Sofosbuvir
+- Favipiravir
+- Molnupiravir
 
 ## List of doctors
 
