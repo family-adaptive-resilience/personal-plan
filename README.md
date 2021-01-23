@@ -316,65 +316,68 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 - [doctors prescribing Ivermectin](https://www.exstnc.com/)
 
 
-## Blood Tests
+## Medical Tests
 
 ### Key Ones
-(first draft, not yet finished and may not yet be quite correct). I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to arrange an appointment, see the doctor, get a prescription for blood tests, take it to TDL around the corner, get blood drawn. Simple process.
 
 [Evidence as to why long haulers are still ill](https://tschmauck.medium.com/finally-evidence-to-why-long-haulers-are-still-ill-512d54f8b164)
 
+WIP - this is still in draft.
+
+I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to arrange an appointment, see the doctor, get a prescription for blood tests, take it to TDL around the corner, get blood drawn. Simple process.
+
+#### Scans
 1. CT scan lungs
+
+#### Blood Tests
+- Using TDL codes
+
 1. platelet count
+1. Serum serotonin level
+1. FIB, Fibrinogen
 1. DDIT, D-Dimers (Fibrinogen Degradation Products)
 1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
 1. HCRP, C Reactive Protein (High Sensitivity)
-1. FIB, Fibrinogen
-1. IL6 - significantly elevated in long covid. Cytokine secreted by macrophages that stimulates production of neutrophils in bone marrow.
+1. IGE - IgE (Total)
+1. EFAR, Essential Fatty Acid Profile (Red Cell)
+
+**Cytokines**
 1. TNF, Tumour Necrosis Factor - Alpha
+1. B Cells, CD14+ and CD16+ monocytic subset - significantly elevated
+1. IFN gamma - significantly elevated in long covid.  Cytokine produced by NK and NKT cells as immune response.
+1. NKP2, Natural Killer Profile 2 (CD3,CD4,CD8,CD16/CD56,CD19)
 1. IL2 - significantly elevated in long covid.  Cytokine regulating white blood cell activity.
 1. IL4 - significantly elevated in long covid.  Cytokine produced by MAST cells inducing differentiation naive helper T ccells.
-1. CCL3 - significantly elevated in long covid.  Chenokine involved in acute inflammatory state.  Recruits and activates polymorphonuclear leukocytes.
-1. IL10 - significantly elevated in long covid.
+1. IL6 - significantly elevated in long covid. Cytokine secreted by macrophages that stimulates production of neutrophils in bone marrow.
 1. IL8 - very elevated in acute cases but not post-acute
-1. IL17
+1. IL10 - significantly elevated in long covid.
 1. IL13
-1. IFN gamma - significantly elevated in long covid.  Cytokine produced by NK and NKT cells as immune response.
+1. IL17
+1. CCL3 - significantly elevated in long covid.  Chenokine involved in acute inflammatory state.  Recruits and activates polymorphonuclear leukocytes.
+1. CCL4 - significantly decreased in long covid.
+1. CCL5 (RANTES) -  elevated in long covid, mild and severe acute cases.
 1. VEGF - significantly elevated in long covid - stimulates formation of blood vessels.
 1. GM-CSF - significantly decreased in long covid. Cytokine that promotes neutrophil proliferation and maturation.
-1. CCL4 - significantly decreased in long covid.
-1. CCL5 (RANTES) -  elevated in long covi, mild and severe acute cases.
-1. B Cells, CD14+ and CD16+ monocytic subset - significantly elevated
 1. sCD40L
 1. GM - CSF
 
 <details>
-  <summary>All the tests I had done - might be overkill</summary>
+  <summary>Some other tests I had done - might be overkill</summary>
 
   #### Full test panels from TDL
-  1. CT scan lungs
-  1. platelet count
-  1. DDIT, D-Dimers (Fibrinogen Degradation Products)
-  1. DL2,DL2 Biochemistry (24 Parameters) & Haematology Profile
-  1. IGE, IgE (Total)
   1. TRAC, Trace Metal (Blood) Profile
   1. VIT2, Vitamin Profile 2
   1. ISAC,ISAC Panel (allergies)
   1. RMIN, Mineral screen (whole blood)
-  1. NKP2, Natural Killer Profile 2 (CD3,CD4,CD8,CD16/CD56,CD19)
   1. RH2, Rheumatology Profile 2 (Connective Tissue)
   1. 1TH2, TH1/TH2 Cytokine Profile
   1. 6RF, TH1/TH2 Cytokine Ratio
   1. 1A, Allergy Profile 1 (Food & Inhalants)
   1. AUTO, Autoantibody Profile I
-  1. HCRP, C Reactive Protein (High Sensitivity)
-  1. FIB, Fibrinogen
   1. PTIM, Prothrombin Time
   1. APTT, APTT/KCCCT
-  1. IL6, Interleukin 6
-  1. TNF, Tumour Necrosis Factor - Alpha
   1. HOMO, Homocysteine (Quantitative)
   1. ESR, ESR
-  1. EFAR, Essential Fatty Acid Profile (Red Cell)
 </details>
 
 ## Other Resources
