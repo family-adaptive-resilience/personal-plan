@@ -179,7 +179,7 @@ Some people have raised questions about possible kidney damage from long-term us
 
 1. **Vitamin B2**
 
-1. **[Symprov](https://www.amazon.co.uk/Symprove-Active-Bacteria-Daily-Supplement/dp/B0086VZ3G6/ref=sr_1_4?dchild=1&keywords=symprove&qid=1611220575&sr=8-4)** probiotics (Amazon).  Gut health is very important for covid and immune regulation.
+1. **[Symprov](https://www.amazon.co.uk/Symprove-Active-Bacteria-Daily-Supplement/dp/B0086VZ3G6/ref=sr_1_4?dchild=1&keywords=symprove&qid=1611220575&sr=8-4)** probiotics (Amazon).  Gut health is very important for covid and immune regulation - [dysbiosis can hinder the immune system's initial response to the virus and contribute to its severity and persistence](https://www.scmp.com/news/hong-kong/health-environment/article/3118238/study-finds-80-cent-recovered-covid-19-patients?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3118238).
 
 1. **[Glycyrrhizin in licorice](https://www.news-medical.net/amp/news/20210105/Glycyrrhizin-in-licorice-root-neutralizes-SARS-CoV-2-in-vitro-by-inhibiting-the-main-protease-Mpro.aspx)
 
