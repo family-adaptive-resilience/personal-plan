@@ -128,8 +128,7 @@ Given the difficulties of getting Covid tests, monitoring SpO2 may be a crude su
 7.Better late than never, but if you do not have an **air filter** then I highly recommend getting a **HEPA** and **UV air filter** (either separately or combined). BlueAir filters cost GBP 200 - 300 on Amazon, and UV air filters about 60 pounds. This may reduce the load on your lungs if you live in a polluted region like London, and may reduce the chances of spreading covid to other members of your household. You should have one per room, and size the filter unit according to the capacity of the room. Note that PM2.5 fine microparticles damage the ciliary cells in the lungs responsible for keeping them clean and this may both increase the susceptibility to covid and worsen its virulence.
 
 8. **Betadine nasal spray and mouthwash**.  [Gargling with iodine mouth wash](https://twitter.com/Covid19Crusher/status/1348340326709256195?s=19
-) may help reduce chance of developing covid symptoms (mild prophylaxis) and reduce the chance of it spreading to the lungs. Alternatively using an iodine saltpipe may have similar benefits. Listerine might also be effective.
-
+) may help reduce chance of developing covid symptoms (mild prophylaxis) and reduce the chance of it spreading to the lungs. Alternatively using an iodine saltpipe may have similar benefits. As regards regular mouthwashes ... - Effective - cetylpyridinium choloride, ethyl lauroyl arginate (Dentyl Dural Action, Dentyl Fresh Product, Listerine Advanced Gum Treatment).  Moderately effective - Videne (iodinated povidine), SCD Max, Listerine Cool Mint.  Ineffective - mouthwashes containing ethanol alone or chlorhexidine (eg Corsodyl).
 
 9.**Early treatment**
 The NHS doesn’t have many early treatments available, but my reading of the research suggests that early treatment leads to much better outcomes.
