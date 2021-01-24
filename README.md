@@ -4,7 +4,7 @@ Symmetry cannot provide medical advice, but in the circumstances I thought that 
 ## Why preparation is essential
 We have spoken to many people who caught covid. **No one** was as prepared as they could have been - nor, indeed, as prepared as they themselves wanted to be. But **every little thing you do matters** because severity of disease is related to viral load, so the sooner you know you have covid and can act, the less severe your experience of the disease is likely to be. Being prepared also means that you may be able to reduce the chance of passing on the virus to those close to you, and it seems likely that one can reduce one's chances of long covid which may be life-altering. Plus you are less likely to die.
 
-In the world of yesterday we expected to be taken care of and not have to take matters into our own hands. But that is not the world of today. We do have options to help if we catch covid, and they aren't expensive or time consuming. So please do consider what actions are appropriate for you, and remember that inaction is unlikely appropriate for anyone.
+In the world of yesterday we expected to be taken care of and not have to take matters into our own hands. But that is not the world of today. There are things you can do to help if you catch covid, and they aren't expensive or time consuming. So please do consider what actions are appropriate for you, and remember that inaction is unlikely to be appropriate for anyone.
 
 ## Amazon Shopping List
 [Covid preparation list on Amazon UK](https://www.amazon.co.uk/gp/registry/wishlist/2MM4TQRE5ZXP6/ref=bnav_topnav_lists_3?) \
