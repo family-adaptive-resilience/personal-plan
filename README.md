@@ -1,13 +1,14 @@
 # Laeeth's Personal Covid Plan
+Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in March. This is not medical advice nor is is a treatment plan; you ought to seek your own medical advice as appropriate.
 
-Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share what I personally did and found helpful when I caught covid in March. This is not advice or a suggested treatment plan, and you ought to seek medical advice as appropriate.
+## Why preparation is essential
+We have spoken to many people who caught covid. **None** was as prepared as they could have been - nor, indeed, as prepared as they themselves wanted to be. But **every little thing you do matters** because severity of disease is related to viral load, so the sooner you know you have covid and can act, the less severe your experience of the disease is likely to be. Being prepared also means that you may be able to reduce the chance of passing on the virus to those close to you, and it seems likely that one can reduces one's chances of long covid which may be life-altering. Plus you are less likely to die.
+
+In the world of yesterday we expected to be taken care of and not have to take matters into our own hands. But that is not the world of today. We do have options to help if we catch covid, and they aren't expensive or time consuming. So please do consider what actions are appropriate for you, and remember that inaction is unlikely appropriate for anyone.
 
 ## Amazon Shopping List
 [Covid preparation list on Amazon UK](https://www.amazon.co.uk/gp/registry/wishlist/2MM4TQRE5ZXP6/ref=bnav_topnav_lists_3?) \
 This is not comprehensive but is a good starting point. Ambroxol is a no-brainer (do read the instructions if you are eg breast feeding) to have at home and is available over-the-counter in many countries. The list does not include the pharmaceuticals listed below which need to be sourced elsewhere, nor does it include all of Laeeth's items. 
-
-## Preparation
-We are leaving the world of yesterday where life seemed to lack meaning to many.  When preparing for covid consider that **every little thing you do matters.**  It's not just about reducing you chance of catching it, but also about viral load.  It's not just about taking action to minimise your risk of death, but also to reduce your chance of extended life-altering disability due to long covid.
 
 ### Shopping
 #### Sources
