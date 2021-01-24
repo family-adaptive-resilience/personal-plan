@@ -134,5 +134,3 @@ Our 11-14 science, maths and geography courses are all fully subscribed for Sept
 - [Coronavirus: How do I home-school my children and what does Bitesize offer?](https://www.bbc.co.uk/news/education-52314856)
 
 </details>
-
-@Laeeth
