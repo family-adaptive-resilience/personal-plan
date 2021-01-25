@@ -265,8 +265,6 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 1. **Dipyridamole-aspirin** if already significant pulmonary symptoms.
 
-1. **Colchicine**
-
 1. **Spironolactone**
 
 <details>
