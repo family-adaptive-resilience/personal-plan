@@ -3,3 +3,6 @@
 >> I would trust this evaluation.
 >> 
 >> https://www.bfarm.de/DE/Medizinprodukte/Antigentests/_node.html
+
+
+- Test Pooling
