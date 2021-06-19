@@ -16,6 +16,8 @@ This is not comprehensive but is a good starting point. Ambroxol is a no-brainer
 - Amazon UK, US, Germany
 - etsy
 - [Vanuatu Pharmacy](https://www.inhousepharmacy.vu/)
+- [Medicine Villa - Indian Pharmacy](https://medicinevilla.com)
+- [Pharmasana](https://www.pharmasana.co.uk/) for Yomesan/Niclosamide
 
 Amazon US may not ship to certain countries.  You can use a reshipping service like Skypax US.
 
