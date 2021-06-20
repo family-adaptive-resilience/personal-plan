@@ -1,5 +1,5 @@
 # Laeeth's Personal Covid Plan
-Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in March. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
+Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in March 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
 
 ## Social media feeds
 - Laeeth's Twitter - [Covid Policy](https://twitter.com/i/lists/1262908149746618368), [Covid Treatments](https://twitter.com/i/lists/1400388249156308992)
@@ -267,7 +267,7 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 1. **Fluvoxamine** 100mg 3x daily.
 
-1. **Ciclesonide** if already significant pulmonary symptoms.
+1. **Ciclesonide or Budesonide** if already significant pulmonary symptoms.
 
 1. **Dipyridamole-aspirin** if already significant pulmonary symptoms.
 
@@ -401,7 +401,7 @@ I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to 
 
   #### Twitter
    - [__@ice9](https://twitter.com/__ice9)
-   - [@farid__jalali](https://twitter.com/farid__jalali)
+   - [@farid__jalali](https://twitter.com/farid__jalali) although account is now restricted
    - [@DrEricDing](https://twitter.com/DrEricDing)
    - [@BallouxFrancois](https://twitter.com/BallouxFrancois)
    - [@Covid19Crusher](https://twitter.com/Covid19Crusher)
@@ -420,6 +420,7 @@ I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to 
 
   #### Forums
   - [virological](https://virological.org/)
+  - [r/Wuhan_Flu](https://www.reddit.com/r/Wuhan_Flu/)
   - [r/China_Flu](https://www.reddit.com/r/China_Flu/)
   - [r/Coronavirus](https://www.reddit.com/r/Coronavirus/)
   - [r/COVID](https://www.reddit.com/r/COVID)
