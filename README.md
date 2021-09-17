@@ -22,6 +22,7 @@ This is not comprehensive but is a good starting point. Ambroxol is a no-brainer
 - Amazon UK, US, Germany
 - etsy
 - [Vanuatu Pharmacy](https://www.inhousepharmacy.vu/)
+- [Ziverdo](https://www.ziverdokit.store/ivermectin)
 - [Medicine Villa - Indian Pharmacy](https://medicinevilla.com) for fluvoxamine, HCQ but Ivermectin quality is uncertain.
 - [Pharmasana](https://www.pharmasana.co.uk/) for Yomesan/Niclosamide
 
@@ -328,8 +329,6 @@ So you need one of TMPRSS entry inhibitors (Ambroxol/Bromhexine or Camostat/Nafa
 
 [Evidence as to why long haulers are still ill](https://tschmauck.medium.com/finally-evidence-to-why-long-haulers-are-still-ill-512d54f8b164)
 
-WIP - this is still in draft.
-
 I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to arrange an appointment, see the doctor, get a prescription for blood tests, take it to TDL around the corner, get blood drawn. Simple process.
 
 #### Scans
@@ -388,7 +387,7 @@ I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to 
 
 ## Other Resources
 
-### Treatment Options
+### Treatment Options (Long Covid and Post-Vaccination Injury)
  - [Dr Yo](https://covidlonghaulers.com/)
 
 ### Guides
