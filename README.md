@@ -388,6 +388,9 @@ I saw draltermimi at samedaydoctor.co.uk near Wimpole Street in London. Call to 
 
 ## Other Resources
 
+### Treatment Options
+ - [Dr Yo](https://covidlonghaulers.com/)
+
 ### Guides
 - [CDC: ventilation in buildings](https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html)
 
