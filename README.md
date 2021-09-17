@@ -1,12 +1,14 @@
 # Laeeth's Personal Covid Plan
 Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in March 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
 
+Time constraints prevent me keeping this as up to date as I would like.
+
 ## Social media feeds
 - Laeeth's Twitter - [Covid Policy](https://twitter.com/i/lists/1262908149746618368), [Covid Treatments](https://twitter.com/i/lists/1400388249156308992)
 - Reddit [r/covidmisc](https://reddit.com/r/covidmisc)
 
 ## Why preparation is essential
-We have spoken to many people who caught covid. **No one** was as prepared as they could have been - nor, indeed, as prepared as they themselves wanted to be. But **every little thing you do matters** because severity of disease is related to viral load, so the sooner you know you have covid and can act, the less severe your experience of the disease is likely to be. Being prepared also means that you may be able to reduce the chance of passing on the virus to those close to you, and it seems likely that one can reduce one's chances of long covid which may be life-altering. Plus you are less likely to die.
+We have spoken to many people who caught covid. **No one** was as prepared as they could have been - nor, indeed, as prepared as they themselves wanted to be. But **every little thing you do matters** because severity of disease is related to viral dose, so the sooner you know you have covid and can act, the less severe your experience of the disease is likely to be. Being prepared also means that you may be able to reduce the chance of passing on the virus to those close to you, and it seems likely that one can reduce one's chances of long covid which may be life-altering. Plus you are less likely to die.
 
 In the world of yesterday we expected to be taken care of and not have to take matters into our own hands. But that is not the world of today. There are things you can do to help if you catch covid, and they aren't expensive or time consuming. So please do consider what actions are appropriate for you, and remember that inaction is unlikely to be appropriate for anyone.
 
@@ -20,7 +22,7 @@ This is not comprehensive but is a good starting point. Ambroxol is a no-brainer
 - Amazon UK, US, Germany
 - etsy
 - [Vanuatu Pharmacy](https://www.inhousepharmacy.vu/)
-- [Medicine Villa - Indian Pharmacy](https://medicinevilla.com)
+- [Medicine Villa - Indian Pharmacy](https://medicinevilla.com) for fluvoxamine, HCQ but Ivermectin quality is uncertain.
 - [Pharmasana](https://www.pharmasana.co.uk/) for Yomesan/Niclosamide
 
 Amazon US may not ship to certain countries.  You can use a reshipping service like Skypax US.
