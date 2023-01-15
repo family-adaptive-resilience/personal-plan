@@ -1,3 +1,6 @@
+## General Resources
+ - [Ben Coomber](https://www.bencoomber.com) ?
+
 ## Spike protein damage tests
 
 Refs: [Dr Syed Haider](https://twitter.com/DrSyedHaider/status/1614278591017283587)
@@ -10,9 +13,11 @@ Refs: [Dr Syed Haider](https://twitter.com/DrSyedHaider/status/16142785910172835
 - thyroid tests
 - both incellDx panels (including S1 subunit test - shows portion of spike stored in non-classical monocytes)
 - immunoglobulin levels
-- CD4 & CD8 T cell counts
+- CD4 & CD8 T cell counts (ratio)
+- neutrophil to lymphocyte ratio (NLR)
 - Pretorius protocol for microscopic blood analysis
 - inflammatory markers - ESR, CRP
+- [thermal scan](https://twitter.com/klpress/status/1614365051976306688) (?)
 
 ## Where to get tests done
 
@@ -23,9 +28,15 @@ Order scripts from:
 Tests:
  - [The Doctor's Laboratory TDL](https://www.tdl.co.uk)
 
+### Global
+ - [RTHM](https://rthm.com)
+
 ## Treatment
  - N Acetyl Cysteine (NAC)
  - Black Seed Oil
  - Serrapeptase + nattokinase (eg Blockbuster All Clear)
+ - Lumbrokinase (?)
+ - Fulvic acid?
  - Thymosin Alpha One
  - Organ-specific peptides from rupharma
+
