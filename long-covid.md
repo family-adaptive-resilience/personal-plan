@@ -43,4 +43,4 @@ Tests:
 ### Peptides
 
 #### Organ-specific
- - Cerluten - brain peptides (1-2 capsules 2x to 3x daily) for 1 month; repeat every 3 - 6 months
+ - Cerluten - brain peptides (1-2 capsules 2x to 3x daily) for 1 month; repeat every 3 - 6 months.  [Study](https://archive.is/gqOwK)
