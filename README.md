@@ -158,6 +158,15 @@ it’s possible to have a negative reaction to anything (for a while a few years
 
 Most of these may be obtained from Amazon.
 
+1.  **Nattokinase** - enzyme that breaks apart peptide bonds in proteins.  Fibrinolytic breaking down fibrin in clots.  May be able to break down the spike protein and fibrin that causes blood clots.  Might be able to improve blood flow, reduce viral load in infected cells, inhibit expression of inflammatory cytokines.  Non-GMO source preferred.
+  
+1. ** Systemic proteolytic enzymes ** - break down proteins into smaller peptides and amino acids.  Break down inflammatory proteins, support immune function and circulation.  Protease + bromelain + papain + amylase + lipase + pancreatin.
+
+1. Sulforaphane.  Reduces expression of ACE2, anti-inflammatory and immunomodulator.
+
+1. Nicotinamide Riboside.
+
+
 1. **Vitamin D with K2**. Take with fatty food in the morning.  It may be that it's a little too late to start supplementation once infected. In his [most recent video](https://www.youtube.com/watch?v=HxtddpoPMKo&t=1099s) on the subject, John Campbell states that it takes a week for the supplementary form to be metabolised to the active form.  Google “Vitamin D hammer” and “vitamin D hammer covid”. I personally took an extremely high dose of vitamin D for five days - 25,000 IU a day along with the standard dose of K2 (which is advisable if taking high doses of vitamin D), and I think it was beneficial although it is hard to be sure. Not for treating covid: Fauci takes 6,000 IU daily; over autumn and winter I increased my dose from 10,000 IU daily to 20,000 IU daily; and my two year old daughter takes 1200IU daily.  Oral D3 spray is more convenient and likely better absorbed than tablets or capsules.
 
 1. **Zinc**. Take before bed on empty stomach.  I took a very high dose of 240mg whilst I was feeling sick. This might be pretty important. I started out taking 120mg daily, but that didn’t seem to make a difference.
