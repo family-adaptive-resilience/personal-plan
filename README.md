@@ -1,5 +1,6 @@
 # Laeeth's Personal Covid Plan
-Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in March 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
+
+Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in April 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
 
 Time constraints prevent me keeping this as up to date as I would like.
 
