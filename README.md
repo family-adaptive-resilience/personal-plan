@@ -1,6 +1,6 @@
 # Laeeth's Personal Covid Plan
 
-Symmetry cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in April 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
+I cannot provide medical advice, but in the circumstances I thought that I ought to share the information I have to allow others to make up their own mind. This covers the preparations I made and continue to make, as well as what I did personally and found helpful when I caught covid in April 2020. This is not medical advice nor is it a treatment plan; you ought to seek your own medical advice as appropriate.
 
 Time constraints prevent me keeping this as up to date as I would like.
 
@@ -79,7 +79,7 @@ Have a mini-plan about what you will do if you get sick or your partner or flatm
   - getting food/water/supplements/computer/other basics to them)?
   
 ### Planning - writing a will
-It is an unpleasant subject, and may sound macabre, but if you haven’t written a will yet then now would be a very good time. Ideally it would be best to use a family solicitor, but in a pinch you can buy DIY packs online. Most people at Symmetry probably don’t expect to ever need to have written a will for years to come, and let’s hope that is right. But if you are looking into the abyss, as I was for a few days just a few months ago, then you will be very glad to have made some preparations when your mind is clear.
+It is an unpleasant subject, and may sound macabre, but if you haven’t written a will yet then now would be a very good time. Ideally it would be best to use a family solicitor, but in a pinch you can buy DIY packs online. Most people probably don’t expect to ever need to have written a will for years to come, and let’s hope that is right. But if you are looking into the abyss, as I was for a few days just a few months ago, then you will be very glad to have made some preparations when your mind is clear.
 
 ### Planning - arranging for adaptive medical care beforehand
 The NHS constrains treatment choices based on evidence from randomised controlled trials. Some people question the wisdom of this framework given that it will be years before we have very good evidence in how to treat a disease new to humanity. The Chief Medical Advisor in the UK refused to advise vitamin D on the grounds of now RCT, but he also refused to fund RCTs - in my opinion this is quite a strange dynamic. So it is not my personal belief that you will get the best possible care from an NHS doctor in the UK.
@@ -216,7 +216,7 @@ Some people have raised questions about possible kidney damage from long-term us
 
 
 ## Medications
-I repeat again that neither I nor Symmetry can give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
+I repeat again that I cannot give medical advice. In the UK the administrative state has taken a highly conservative approach, awaiting evidence from randomised controlled trials before recommending treatments. A better question is to consider as well as the likelihood of efficacy the risk:reward - if a treatment has a decent chance of working and probably won’t do much harm then some might suggest it is worth considering even if the evidence is not satisfactory from a narrowly scientific perspective.
 
 <details>
   <summary>Ordering and shipping</summary>
